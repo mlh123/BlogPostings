@@ -1,12 +1,12 @@
-title: Bee Appreciation
+title: The Official Website of Holden Honey Hives
 description: A website detailing the flowering lives of bees and the recipes to
-  use honey in.
+  use our signature honey in.
 footer_text: Copyright 2020
-header_feature_image: ../uploads/pages.jpg
+header_feature_image: ../uploads/meggyn-pomerleau-ofavwozbtli-unsplash.jpg
 header_text: Bee, Bees and more Bees
 header_text_color: "#ffffff"
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/log.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
