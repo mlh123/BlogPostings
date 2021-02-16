@@ -10,7 +10,7 @@ tags:
 ---
 Welcome to the **bee-hive** of Holden Honey Hive. 
 
-We welcome all those who love and appreicuate vees like we do. 
+We welcome all those who love and appreciate vees like we do. 
 
 To those who don't, **buzz** off.
 
@@ -22,4 +22,6 @@ You may think: this meadow has a pungent smell, maybe I should make a cookbook b
 
 Or you may think: that lion looks hungry and I don't want to be its next meal, maybe I make a cookbook on ways to turn from a carnavor to a herbivor in a few easy steps. And quickly!
 
-Now all the serious stuff is out of the way, let us tell you how we came up with our recipe book idea.
+Now all the serious stuff is out of the way, let us tell you how we came up with our ***Holden Honey Hives Presents Our Family Guide to Cooking with Honey*** recipe book idea. Long title, we know, but it says what it is on the tin.
+
+The idea for this came from a speical date, our 20th anniversay of producing high quality honey, with our signiture flavours, for all the family to enjoy together. We realised that a way to promote the wellbeing of bees and our honey at the same time, would be through a recipe book to celebrate our anniversay.
