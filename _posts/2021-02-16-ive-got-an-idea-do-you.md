@@ -26,4 +26,6 @@ Now all the serious stuff is out of the way, let us tell you how we came up with
 
 The idea for this came from a speical date, our 20th anniversary of producing high quality honey, with our signiture flavours, for all the family to enjoy together. We realised that a way to promote the wellbeing of bees and our honey at the same time, would be through a recipe book to celebrate our anniversay.
 
-To pun or not to pun, that was the true question. Our idea was centred around promoting family-friendly experiences that all ages, from young to old, would enjoy.
+> To pun or not to pun, that was the true question. 
+
+Our idea was centred around promoting family-friendly-fun experiences that all ages, from young to old, would enjoy. We wanted to create a **hive** of activity
