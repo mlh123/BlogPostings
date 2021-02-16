@@ -8,8 +8,10 @@ comments: false
 tags:
   - ""
 ---
-Welcome back to the **hive** ~ how have you **been**?
+Welcome back to the **hive** ~ how have you **bee-n**?
 
 From our previous post, you should now all have a running theme and idea on what your product and/or service should revolve around.
 
 Let's use Holden Honey Hives as our case study today to provide you with working example to review.
+
+A cover has to be engaging, eye-catching, and most importantly, relevent.
