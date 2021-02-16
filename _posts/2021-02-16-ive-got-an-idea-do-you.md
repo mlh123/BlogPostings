@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've got an idea, do you?
+title: I've got an idea, have you?
 date: 2021-02-16T15:03:45.456Z
 header_feature_image: ../uploads/bill-nino-c5dcs8bmn_i-unsplash.jpg
 title_color: "#ffffff"
