@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's all the buzz about?
+title: "Creating a Cover: what's all the buzz about?"
 date: 2021-02-16T13:10:39.710Z
 header_feature_image: ../uploads/bill-nino-c5dcs8bmn_i-unsplash.jpg
 title_color: "#ffffff"
@@ -8,4 +8,8 @@ comments: false
 tags:
   - ""
 ---
-Hello again to our hive ~ how have you bee-n?
+Welcome back to the **hive** ~ how have you **been**?
+
+From our previous post, you should now all have a running theme and idea on what your product and/or service should revolve around.
+
+Let's use Holden Honey Hives as our case study today to provide you with working example to review.
