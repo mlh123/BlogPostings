@@ -14,7 +14,7 @@ We welcome all those who love and appreciate bees like we do.
 
 To those who don't, **buzz** off.
 
-Today's conversation of choice is generating an idea for your recipe book.
+Today's conversation of choice is generating an idea for your reci-**bee** book.
 
 Inspiration can turn up in the unlikeliest of places, from a simple walk through a meadow to being chased down a rickety old bridge by a lion. 
 
@@ -24,7 +24,7 @@ Or you may think: that lion looks hungry and I don't want to be its next meal, m
 
 Now all the serious stuff is out of the way, let us tell you how we came up with our ***Holden Honey Hives Presents Our Family Guide to Cooking with Honey*** recipe book idea. Long title, we know, but it says what it is on the tin.
 
-The idea for this came from a special date, our 20th anniversary of producing high-quality honey, with our signature flavours, for all the family to enjoy together. We realised that a way to promote the wellbeing of bees and our honey at the same time would be through a recipe book to celebrate our anniversay.
+The idea for this came from a special date, our 20th anniversary of producing high-quality honey, with our signature flavours, for all the family to enjoy together. We realized that a way to promote the wellbeing of the bee population and our signature honey brand at the same time would be through a recipe book to celebrate this special date in our **hives** history.
 
 > To pun or not to pun, that was the true question. 
 
@@ -34,6 +34,10 @@ That was our personal process of creating out a recipe book, and it was only an 
 
 You do you.
 
+We're here to support you in your **bumbling** journey to success.
+
 However, here at **Holden Honey Hives**, we do hope that you've found this useful in coming up with an idea for your recipe book.
 
-We look forward to seeing you next week for
+We look forward to seeing you next week for: ***Honey, where's my theme?***
+
+Until then, nighty night our **beehive**, don't let the wind keep you down.
