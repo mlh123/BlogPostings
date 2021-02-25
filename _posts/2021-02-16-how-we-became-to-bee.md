@@ -8,7 +8,11 @@ comments: false
 tags:
   - honey
 ---
-Hello everyone ~ here at Holden Honey Hive, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
+Welcome back my beehive ~ how have you **bee-n**?
+
+I hope you have been
+
+Here at Holden Honey Hive, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
 
 It's what gets the world **buzzing**. It's what makes people **bumble** out of bed in the morning.
 
