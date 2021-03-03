@@ -47,4 +47,8 @@ A theme is important to any product, but it is especially important for a recipe
 
 Now, here at **Holden Honey Hive's**, we hope this was helpful in your search for a theme.
 
-We look forward to seeing you in our next weeks issue of:
+We look forward to seeing you in our next weeks issue of: 
+
+***Creating a cover: what's all the buzz about?***
+
+For now our glarous beehive, fly away and enjoy the rest of your day.
