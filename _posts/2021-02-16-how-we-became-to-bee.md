@@ -10,7 +10,7 @@ tags:
 ---
 Welcome back my beehive ~ how have you **bee-n**?
 
-All good things I hope. 
+All good things,I hope. 
 
 Here at Holden Honey Hive, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
 
@@ -26,9 +26,9 @@ A theme is what keeps an identity, a brand, a business alive. Whether that theme
 
 To get an idea of what your theme should **bee**, you need to ask yourself: 
 
-*What am I trying to achieve?*
+> *What am I trying to achieve?*
 
-Whether your goal is the be the market leader in the honey world or to be the most **buzzed** about fungle nail cream, it's equally important for everyone to try and **bee** as successful as possible in our endevours.
+Whether your goal is the be the market leader in the honey world or to be the most **buzzed** about fungal nail cream, it's equally important for everyone to try and **bee** as successful as possible in our endeavours.
 
 Here are ways in which may help you decide upon a theme and apply it, according to *[Blurb](https://www.blurb.com/blog/10-tips-creating-cookbook/)*:
 
@@ -36,9 +36,15 @@ Here are ways in which may help you decide upon a theme and apply it, according 
 2. Be consistent, do not make carefully designed elements look like an accident
 3. Choose the right trim size, it helps create a more professional look
 4. Use less food then you would serve
-5. Take photos in natural light to look as aesthically please as possible
+5. Take photos in natural light to look as aesthetically please as possible
 6. To prevent the photos from looking bland and boring, vary up your locations and plating backgrounds
 7. Create your recipe layouts in advance to get the most out of the proportions
 8. Know your chapters and section in advance to create a unified product
 9. Write engaging recipe headnotes, the readers will love this extra attention to detail
 10. Test, re-test and proofread it to weed out any mistakes, because you'll have missed at least one thing.
+
+A theme is important to any product, but it is especially important for a recipe book because you have to compete with the internet. Why should a potential customer and reader purchase your recipe book when there are similar recipes available for free online? You are creating a user experience, you want to create value for money. A consistent theme will help you do this.
+
+Now, here at **Holden Honey Hive's**, we hope this was helpful in your search for a theme.
+
+We look forward to seeing you in our next weeks issue of:
