@@ -10,7 +10,7 @@ tags:
 ---
 Welcome back my beehive ~ how have you **bee-n**?
 
-All good things,I hope. 
+All good things, I hope. 
 
 Here at Holden Honey Hive, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
 
@@ -35,7 +35,7 @@ Here are ways in which may help you decide upon a theme and apply it, according 
 1. Aim for simplicity and go from there
 2. Be consistent, do not make carefully designed elements look like an accident
 3. Choose the right trim size, it helps create a more professional look
-4. Use less food then you would serve
+4. Use less food than you would serve
 5. Take photos in natural light to look as aesthetically please as possible
 6. To prevent the photos from looking bland and boring, vary up your locations and plating backgrounds
 7. Create your recipe layouts in advance to get the most out of the proportions
@@ -43,12 +43,12 @@ Here are ways in which may help you decide upon a theme and apply it, according 
 9. Write engaging recipe headnotes, the readers will love this extra attention to detail
 10. Test, re-test and proofread it to weed out any mistakes, because you'll have missed at least one thing.
 
-A theme is important to any product, but it is especially important for a recipe book because you have to compete with the internet. Why should a potential customer and reader purchase your recipe book when there are similar recipes available for free online? You are creating a user experience, you want to create value for money. A consistent theme will help you do this.
+A theme is important to any product, but it is especially important for a recipe book because you have to compete with the internet. Why should a potential customer and reader purchase your recipe book when there are similar recipes available for free online? You are creating a user experience; you want to create value for money. A consistent theme will help you do this.
 
 Now, here at **Holden Honey Hive's**, we hope this was helpful in your search for a theme.
 
-We look forward to seeing you in our next weeks issue of: 
+We look forward to seeing you in our next week's issue of: 
 
 ***Creating a cover: what's all the buzz about?***
 
-For now our glarous beehive, fly away and enjoy the rest of your day.
+For now, our glorious beehive, fly away and enjoy the rest of your day.
