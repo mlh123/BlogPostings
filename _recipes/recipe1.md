@@ -1,32 +1,32 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 1
-date: 2019-10-19
-published: true
+title: Beeswax Smoothie
 order: 1
-tags:
+date: 2019-10-19
+layout: recipe
+published: true
+tags: null
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It’ll be too good to resist. It’s perfect for on the go, because even the **busiest of bees** gotta eat.
 
-![Placeholder](../uploads/placeholder1.jpg)
-
+![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
 
 ## Ingredients
 
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
+![](../uploads/tim-chow-v8zamcazive-unsplash.jpg)
+
+* 1 or 1/2 Mangos (pitted, peeled and diced)  
+* 1 Banana 
+* A handful of baby spinach
+* 2 tablespoons of ground flax seeds
+* 2 tablespoons of honey
+* 1 cup of cold water or ice cubes
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Chop up the banana and place into the blender with the pitted, peeled and diced up mango.
+2. Add in a handful of spinach and the ground flax seeds, which are high in Omego and fibre, to keep you fuller for longer.
+3. Pour the honey over the ingredients, then either add the water or ice to the mixture and blend until smoothie.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Serves: 6
-- Preparation time: 1 hour
+* Serves: 1
+* Preparation time: 10 minutes
+* Cooking time: 2 minutes
