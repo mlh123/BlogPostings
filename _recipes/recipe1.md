@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It’ll be too good to resist. It’s perfect for on the go, because even the **busiest of bees** gotta eat. Better yet, it counts for one of your five-a-day!
+Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It’ll be too good to resist. It’s perfect for on the go, because even the **busiest of bees** got to eat. Better yet, it counts for one of your five-a-day!
 
 ![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
 
