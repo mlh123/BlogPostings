@@ -23,9 +23,9 @@ Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the f
 
 ## Method
 
-1. Chop up the banana and place into the blender with the pitted, peeled and diced up mango.
-2. Add in a handful of spinach and the ground flax seeds, which are high in Omego and fibre, to keep you fuller for longer.
-3. Pour the honey over the ingredients, then either add the water or ice to the mixture and blend until smoothie.
+1. Chop up the banana on a chopping board (*parents you might want to handle this part*) and place into the blender with the pitted, peeled and diced up mango.
+2. Add in a handful of washed spinach and the ground flax seeds, which are high in Omego and fibre, to keep you fuller for longer, to the mix. 
+3. Pour the signiture ***Holden's Honey Hive's Breakfast Honey*** over the ingredients, then either add the water or ice to the mixture and blend until smoothie.
 
 * Serves: 1
 * Preparation time: 10 minutes
