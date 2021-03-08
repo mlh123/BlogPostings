@@ -8,9 +8,11 @@ tags: null
 ---
 Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It’ll be too good to resist. It’s perfect for on the go, because even the **busiest of bees** gotta eat.
 
-![Placeholder](../uploads/tim-chow-v8zamcazive-unsplash.jpg)
+![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
 
 ## Ingredients
+
+![](../uploads/tim-chow-v8zamcazive-unsplash.jpg)
 
 * 1 or 1/2 Mangos (pitted, peeled and diced)  
 * 1 Banana 
