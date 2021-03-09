@@ -24,7 +24,7 @@ Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the f
 ## Method
 
 1. Chop up the banana and place into the **bee**-lender with the pitted, peeled and diced up mango.
-2. Add in a handful of spinach and the ground flax seeds, which are high in Omego and fibre, to keep the **hive** fuller for longer.
+2. Add in a handful of spinach and the ground flax seeds, which are high in Omega and fibre, to keep the **hive** fuller for longer.
 3. Pour the honey over the ingredients, then either add the water or ice to the mixture and **bee-**lend until smooth.
 4. This is where the honorary food testers (aka:**worker bees**) come and check to see if any more honey is needed.
 5. When the right concoction has been made, serve for all to enjoy it.
@@ -35,6 +35,6 @@ Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the f
 * Preparation time: 10 minutes
 * Cooking time: 2 minutes
 
-Attached below is YouTube video detailing how to create this delicous honey concocation, ours has an added twist to it with the flax seeds.
+Attached below is YouTube video detailing how to create this delicious honey concoction, ours has an added twist to it with the flax seeds.
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/2MJkyIFpOlA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
