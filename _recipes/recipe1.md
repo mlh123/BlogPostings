@@ -6,9 +6,17 @@ layout: recipe
 published: true
 tags: null
 ---
-Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It’ll be too good to resist. It’s perfect for on the go, because even the **busiest of bees** got to eat. Better yet, it counts for one of your five-a-day!
+Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It will be too good to resist. 
 
 ![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
+
+Perfect for on the go, even the **busiest of bees** got to eat. Better yet, it counts for one of your five-a-day!
+
+* Serves: 1
+* Preparation time: 10 minutes
+* Cooking time: 2 minutes
+
+
 
 ## Ingredients
 
@@ -28,12 +36,9 @@ Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the f
 3. Pour the honey over the ingredients, then either add the water or ice to the mixture and **bee-**lend until smooth.
 4. This is where the honorary food testers (aka:**worker bees**) come and check to see if any more honey is needed.
 5. When the right concoction has been made, serve for all to enjoy it.
+6. Can be kept in the fridge for a day.
 
-   *Can be kept in the fridge for a day.*
 
-* Serves: 1
-* Preparation time: 10 minutes
-* Cooking time: 2 minutes
 
 Attached below is YouTube video detailing how to create this delicious honey concoction, ours has an added twist to it with the flax seeds.
 
