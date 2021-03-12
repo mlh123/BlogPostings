@@ -9,4 +9,4 @@ logo: ../uploads/hhh-logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
-upzoom: false
+upzoom: true
