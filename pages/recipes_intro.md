@@ -1,6 +1,6 @@
 ---
-title: My Recipes
-subtitle: "The "
+title: Honey Recipes
+subtitle: Holden Honey Hives Presents Our Family Guide to Cooking with Honey
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
 show: true
@@ -8,7 +8,7 @@ layout: recipeshome
 ---
 Welcome my darling bees, 
 
-Now, we're sure you have been buzzing for this part. The 
+To celebrate our 20 years of our excellent honey making legacy, we have created a reci-**bee** book with some of our family favourites, that we know you will love.
 
 ![](../uploads/hhh-recipe-cover.jpg)
 
