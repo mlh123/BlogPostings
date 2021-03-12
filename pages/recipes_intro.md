@@ -8,7 +8,7 @@ layout: recipeshome
 ---
 Welcome my darling bees, 
 
-Now, we're sure you have been buzzing for this part. The 
+To celebrate our 20 years of our excellent honey making legacy, we have created a reci-**bee** book with some of our family favourites, that we know you will love.
 
 ![](../uploads/hhh-recipe-cover.jpg)
 
