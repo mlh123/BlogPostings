@@ -1,5 +1,5 @@
 ---
-title: Honey Recipes
+title: Honey Reci-bees
 subtitle: Holden Honey Hives Presents Our Family Guide to Cooking with Honey
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
