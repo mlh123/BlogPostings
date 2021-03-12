@@ -14,7 +14,7 @@ Hello to our **beehive** showcasing quality content based around one thing and o
 
 Honey! That's right, honey doesn't have to **bee** for sweet treats, it can be for a whole number of things: chicken, cheese, eggs, and yes, even fish. 
 
-As a family owned business, nay, lifestyle, the honey runs through our veins, we breathe pollen as air. Like any other profession, there have been hardships, but we're not ones to **abscond** our passion of beekeeping. We thrive in the face of opposition and adversity, growing to **bee-come** the household brand you know and love today. 
+As a family owned business, nay, lifestyle, honey runs through our veins, we breathe pollen as air. Like any other profession, there have been hardships, but we're not ones to **abscond** our passion of beekeeping. We thrive in the face of opposition and adversity, growing to **bee-come** the household brand you know and love today. 
 
 We created this website to inspire families and individuals to **cluster** together to become more aware of the necessity of bees to our eco-system. 
 
