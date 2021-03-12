@@ -1,13 +1,12 @@
 title: The Official Website of Holden Honey Hives
-description: A website detailing the flowering lives of bees and the recipes to
-  use our signature honey in.
+description: What more could a bee want?
 footer_text: Copyright 2020
-header_feature_image: ../uploads/meggyn-pomerleau-ofavwozbtli-unsplash.jpg
-header_text: Bee, Bees and more Bees
-header_text_color: "#ffffff"
-bannerheight: 20vmax
+header_feature_image: ../uploads/bianca-ackermann-mtnvvqvmoks-unsplash.jpg
+header_text: ""
+header_text_color: "#e0982b"
+bannerheight: 50vmax
 logo: ../uploads/hhh-logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
-upzoom: true
+upzoom: false
