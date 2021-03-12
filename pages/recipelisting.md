@@ -1,5 +1,5 @@
 ---
-title: Honey Recipes
+title: Honey Reci-bees
 permalink: /allrecipes
 date: 2021-03-12T17:58:35.308Z
 show: false
