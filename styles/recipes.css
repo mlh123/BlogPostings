@@ -13,9 +13,9 @@ html {
 }
 
 body {
-  margin: 0px;
-  font-family: monospace, arial, helvetica, sans-serif;
-  background-colour: rgb(224,152,43);
+  margin: 30px;
+  font-family: arial, helvetica;
+  background-colour:white;
 }
 
 article,
@@ -36,10 +36,6 @@ summary {
 
 img {
   max-width: 100%;
-  border: 4px soild rgb(224,152,43);
-  max-width: 400px;
-  margin: 0 auto;
-  display: block;
 }
 
 blockquote {
@@ -87,29 +83,5 @@ ul.allrecipes {
   font-size: 60%;
   padding: 10px;
   margin: 20px 0;
-}
-
-p.blurb {
-font-size: 19px;
-text-align: center;
-}
-
-.everything {
-width:70%;
-max-width: 900px;
-/* border: 1px solid black; */
-margin: 0 auto;
-background-color: white;
-padding:12px 30px;
-}
-
-ul.info {
-  color:black;
-  font-size: 17px;
-}
-
-ul {
-color: black;
-font-size: 17px;
 }
 
