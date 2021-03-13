@@ -1,5 +1,5 @@
 ---
-title: Honey Reci-bees
+title: Honey Recipes
 subtitle: Holden Honey Hives Presents Our Family Guide to Cooking with Honey
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
@@ -8,13 +8,19 @@ layout: recipeshome
 ---
 Welcome my darling bees, 
 
-To celebrate our 20 years of our excellent honey making legacy, we have created a reci-**bee** book with some of our family favourites, that we know you will love.
+**Bee-hind** the 20 years in the beekeeping **bee-ness**, we at **Holden’s Honey Hive** are happy to **bee-hold** our recipe book to celebrate the times **bumbling** along at the very beginning, to becoming a household brand. We have filled it to the brim with our most **buzzed-**about recipes incorporating our signature Honey for you, our **colony**.
 
-RE-WRITE THE INTRO/BLURD FOR 1ST ASSIGMENT SUBMITTED
+From breakfast to supper, *Basil, Apple, Cheese and Honey Omelette* to *Honey, Mustard and Broccoli Slaw*, we have it all to enjoy some truly **un-bee-leviable** family moments. 
+
+Don’t go **pollen** in love just yet, there's more...
+
+10% of our profits’ will go to protecting our **flowering** bee community for a sweeter sunrise. 
+
+This is the must-**hive** recipe book for your family-friendly fun if truth **bee** told, **honey**. Now, don’t **swarm outside**, it's available as an eBook.
 
 ![Holden Honey Hives Family Guide to Cooking with Honey against a wooden board with honey and oats](../uploads/hhh-recipe-cover.jpg "Cover of Recipe Book")
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> We're the **bees-knees** of reci**\-bees**, and we know it.
 
 
 
