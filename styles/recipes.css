@@ -150,9 +150,9 @@ body.recipeslisting h1{
 body.recipeslisting header{
   width: 75%;
   margin: auto;
-  background-color: red;
+  background-color: rgb(206,124,0);
   border-style: solid;
-  border-color: green;
+  border-color: black;
   border-width: 5px;
 p.blurb {
 font-size: 19px;
