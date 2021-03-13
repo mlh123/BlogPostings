@@ -9,17 +9,15 @@ tags:
   - Meat
   - Hot
 ---
+.
+
 
 
 ![](../uploads/caroline-hernandez-xlka0cjabus-unsplash.jpg "Photo by Caroline Hernandez on Unsplash")
 
-
-
 * Serves: 4
 * Preparation Time: 25 minutes
 * Cooking Time: 40 minutes
-
-
 
 ## Ingredients:
 
