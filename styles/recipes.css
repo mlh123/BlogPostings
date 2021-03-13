@@ -74,21 +74,39 @@ a {
 /* for a menu for all recipes */
 ul.allrecipes {
   list-style: none;
+  margin-left: 0;
+  background-color: white;
+  padding: 10px;
+  line height: 1.5;
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(224, 152, 43);
+  border-width: 5px;
 }
 
 .menu {
   display: block;
-  border: 1px solid gray;
-  width: 15%;
+  border: 3px solid gray;
+  width: 20%;
   font-size: 60%;
   padding: 10px;
   margin: 20px 0;
+  min-width: 120px;
+  top: 0;
+  centre: 0;
 }
 
 body {
-background-color: rgb(224, 152, 43);
+background-color: white;
 font-family: monospace, arial, helvetica, sans-serif;
-margin:0;
+margin:1em;
+font-size: 20px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 30em;
+  padding-right: 30em;
+ border-color: rgb(224, 152, 43);
+  border-width: 20px;
 }
 
 h1,h2 {
@@ -97,9 +115,20 @@ font-family: monospace;
 font-size: 30px;
 }
 
+header{
+  width: 65%;
+  margin: auto;
+  background-colour: yellow;
+  border-style: solid;
+  bordercolor: white;
+  border-width: 5px;
+}
+
 h1{
 margin: 0 auto;
 text-align: center;
+font-family: monospace, arial, helvetica, sans-serif;
+ font-size: 40px;
 }
 
 p{
@@ -108,6 +137,7 @@ text-align: justify;
 
 h2{
 color:rgb(224, 152, 43);
+  text-align: left;
 }
 
 p.blurb {
@@ -132,6 +162,12 @@ p.link {
 ul {
 color: black;
 font-size: 17px;
+ text-align: left;
+  margin-bottom:1em;
+  margin-left: 15em;
+  margin-right: 15em;
+  line-height: 1;
+  padding: 10px;
 }
 
 ul.info {
