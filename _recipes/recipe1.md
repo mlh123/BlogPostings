@@ -8,7 +8,11 @@ tags: null
 ---
 Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It will be too good to resist. 
 
+
+
 ![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
+
+
 
 Perfect for on the go, even the **busiest of bees** got to eat. Better yet, it counts for one of your five-a-day!
 
@@ -16,9 +20,11 @@ Perfect for on the go, even the **busiest of bees** got to eat. Better yet, it c
 * Preparation time: 10 minutes
 * Cooking time: 2 minutes
 
-## Ingredients
 
-![Photo by Tim Chow on Unsplash ](../uploads/tim-chow-v8zamcazive-unsplash.jpg)
+
+## Ingredients:
+
+
 
 * 1 or 1/2 Mangos (pitted, peeled and diced)  
 * 1 Banana 
@@ -27,7 +33,9 @@ Perfect for on the go, even the **busiest of bees** got to eat. Better yet, it c
 * 2 tablespoons of honey
 * 1 cup of cold water or ice cubes
 
-## Method
+## Method:
+
+
 
 1. Chop up the banana and place into the **bee**-lender with the pitted, peeled and diced up mango.
 2. Add in a handful of spinach and the ground flax seeds, which are high in Omega and fibre, to keep the **hive** fuller for longer.
