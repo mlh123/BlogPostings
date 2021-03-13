@@ -140,20 +140,6 @@ color:rgb(224, 152, 43);
   text-align: left;
 }
 
-body.recipeslisting h1{
-  color: rgb(206,124,0);
-    padding-top: 5px;
-  font-size: 20px;
-  text-align: center;
-}
-  
-body.recipeslisting header{
-  width: 75%;
-  margin: auto;
-  background-color: red;
-  border-style: solid;
-  border-color: green;
-  border-width: 5px;
 
 p.blurb {
 font-size: 19px;
