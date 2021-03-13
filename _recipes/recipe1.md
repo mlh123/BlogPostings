@@ -6,10 +6,6 @@ layout: recipe
 published: true
 tags: null
 ---
-
-
-# Beeswax Smoothie
-
 Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It will be too good to resist. 
 
 ![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
@@ -20,7 +16,7 @@ Perfect for on the go, even the **busiest of bees** got to eat. Better yet, it c
 * Preparation time: 10 minutes
 * Cooking time: 2 minutes
 
-## Ingredients 
+## Ingredients
 
 ![Photo by Tim Chow on Unsplash ](../uploads/tim-chow-v8zamcazive-unsplash.jpg)
 
