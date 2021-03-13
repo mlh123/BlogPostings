@@ -118,9 +118,9 @@ font-size: 30px;
 header{
   width: 65%;
   margin: auto;
-  background-colour: yellow;
+  background-color: white;
   border-style: solid;
-  bordercolor: white;
+  border-color: rgb(224, 152, 43);
   border-width: 5px;
 }
 
@@ -142,11 +142,18 @@ color:rgb(224, 152, 43);
 
 body.recipeslisting h1{
   color: rgb(206,124,0);
-    padding-top: 8px;
+    padding-top: 5px;
   font-size: 20px;
   text-align: center;
 }
   
+body.recipeslisting header{
+  width: 75%;
+  margin: auto;
+  background-color: red;
+  border-style: solid;
+  border-color: green;
+  border-width: 5px;
 
 p.blurb {
 font-size: 19px;
