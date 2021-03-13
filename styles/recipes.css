@@ -13,9 +13,9 @@ html {
 }
 
 body {
-  margin: 15px;
+  margin: 10px;
   font-family: arial, helvetica;
-  background-colour:white;
+  background-colour:rgb(224, 152, 43);
 }
 
 article,
@@ -76,7 +76,7 @@ ul.allrecipes {
   list-style: none;
   margin-left: 0;
   background-color: white;
-  padding: 10px;
+  padding: 5px;
   line height: 1.5;
   text-align: center;
   border-style: solid;
@@ -103,8 +103,8 @@ margin:1em;
 font-size: 20px;
   padding-top: 1em;
   padding-bottom: 1em;
-  padding-left: 10em;
-  padding-right: 10em;
+  padding-left: 5em;
+  padding-right: 5em;
  border-color: rgb(224, 152, 43);
   border-width: 10px;
 }
