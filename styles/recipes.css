@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  margin: 30px;
+  margin: 15px;
   font-family: arial, helvetica;
   background-colour:white;
 }
@@ -103,10 +103,10 @@ margin:1em;
 font-size: 20px;
   padding-top: 1em;
   padding-bottom: 1em;
-  padding-left: 30em;
-  padding-right: 30em;
+  padding-left: 10em;
+  padding-right: 10em;
  border-color: rgb(224, 152, 43);
-  border-width: 20px;
+  border-width: 10px;
 }
 
 h1,h2 {
