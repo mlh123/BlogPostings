@@ -13,27 +13,41 @@ tags: null
 
 *Want to spice things up furthur? Then add a dash of our honey to the milk and warm up for an extra treat.*
 
-* Serves: 35 cookies
-* Preparation Time: 25 minutes
-* Cooking Time: 20 minutes
+Serves: 35 cookies
 
-## Ingredients:
+Preparation Time: 25 minutes
 
-* 250g of butter
-* 180g of demerara sugar
-* 250g of honey
-* 3 eggs
-* 1 teaspoon of baking soda
-* 2 teaspoon of ground cinnamon
-* ½ teaspoon of ground cloves
-* ½ teaspoon of ground nutmeg
-* ½ teaspoon of powdered ginger
-* 300g of all-purpose flour
-* 100g of whole wheat flour
-* 350g of soft flour
-* 12 walnuts, whole walnut kernels, divided into quarters
+Cooking Time: 20 minutes
 
-## Method:
+## Ingredients
+
+250g of butter
+
+180g of demerara sugar
+
+250g of honey
+
+3 eggs
+
+1 teaspoon of baking soda
+
+2 teaspoon of ground cinnamon
+
+½ teaspoon of ground cloves
+
+½ teaspoon of ground nutmeg
+
+½ teaspoon of powdered ginger
+
+300g of all-purpose flour
+
+100g of whole wheat flour
+
+350g of soft flour
+
+12 walnuts, whole walnut kernels, divided into quarters
+
+### Method:
 
 1. Heat the butter, sugar and **Holden Honey Hives'** honey, stirring constantly, over a low heat until the sugar and butter have melted completely. 
 2. Set aside to cool (10 minutes) and lightly whisk the eggs. 
