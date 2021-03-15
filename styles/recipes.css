@@ -80,7 +80,7 @@ ul.allrecipes {
   text-align: center;
   border-style: solid;
   border-color: green;
-  border-width: 5px;
+  border-width: 3px;
  align-content: center;
 }
 
@@ -94,6 +94,7 @@ ul.allrecipes {
   text-align: center;
   top: 0;
   left:0;
+  position: fixed;
 }
 
 body {
