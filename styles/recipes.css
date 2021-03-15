@@ -85,6 +85,12 @@ ul.allrecipes {
   page-align: center; 
 }
 
+a{
+  color: purple;
+  text-align: center;
+  text-align-last: center;
+  
+
 .menu {
   display: block;
   width: 60%;
