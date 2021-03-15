@@ -75,6 +75,7 @@ a {
 ul.allrecipes {
   list-style: none;
     background-color: rgb(224, 152, 43) transparent;
+  box-sizing: border-box;
   border-radius: 25px;
   font-size: 8px;
   line height: 1.5;
