@@ -74,7 +74,7 @@ a {
 /* for a menu for all recipes */
 ul.allrecipes {
   list-style: none;
-    background-color: rgb(224, 152, 43); transparency: 25%;
+    background-color: rgb(224, 152, 43); background-transparency: 25%;
   border-color: rgb(224, 152, 43);
   box-sizing: border-box;
   border-radius: 25px;
