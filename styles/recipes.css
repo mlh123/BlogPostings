@@ -96,16 +96,9 @@ ul.allrecipes {
 }
 
 body {
-background-color: white;
 font-family: monospace, arial, helvetica, sans-serif;
 margin:1em;
 font-size: 17px;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  padding-left: 5em;
-  padding-right: 5em;
- border-color: rgb(224, 152, 43);
-  border-width: 15px;
 }
 
 h1,h2 {
@@ -114,7 +107,7 @@ font-family: monospace;
 font-size: 30px;
 }
 
-header{
+header {
   width: 65%;
   margin: auto;
   background-color: white;
@@ -123,7 +116,7 @@ header{
   border-width: 5px;
 }
 
-h1{
+h1 {
 margin: 0 auto;
 text-align: center;
 font-family: monospace, arial, helvetica, sans-serif;
@@ -140,42 +133,40 @@ color:rgb(224, 152, 43);
   text-align: left;
 }
 
-body.recipeslisting h1{
+body.recipeslisting h1 {
   color: white;
     padding-top: 5px;
   font-size: 20px;
   text-align: center;
 }
   
-body.recipeslisting header{
+body.recipeslisting header {
   width: 50%;
   margin: auto;
   background-color: rgb(246, 178,68);
   border-style: solid;
   border-color: black;
   border-width: 4px;
+}
+
 p.blurb {
 font-size: 19px;
 text-align: center;
 }
 
-.everything {
-width:60%;
-max-width: 700px;
-/* border: 1px solid black; */
-margin: 0 auto;
-background-color: white;
-padding:12px 30px;
-}
 
-p.link {
-
-}
-
-main{
-  border: 1px solid red;
+main {
+  width:100%;
+  max-width: 900px;
+  /* border: 1px solid black; */
+  margin: 0 auto;
+  background-color: white;
+  padding:12px 30px;
   }
-  
+
+.itemlistheading {
+  text-align:center;
+}
   
 ul {
 color: black;
