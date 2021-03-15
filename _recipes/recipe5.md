@@ -6,32 +6,31 @@ layout: recipe
 published: true
 tags: null
 ---
-
-
 .
-
-
-
-
 
 ![](../uploads/caroline-attwood-bpptlxwtovg-unsplash.jpg "Photo by Caroline Attwood on Unsplash")
 
+Serves: 4
 
+Preparation Time: 15 minutes
 
-* Serves: 4
-* Preparation Time: 15 minutes
-* Cooking Time: 10 minutes
+Cooking Time: 10 minutes
 
-## Ingredients:
+## Ingredients
 
-* 2 Tablespoons of Oyster Sauce
-* ¼ cup of Water
-* ⅓ cup of Honey (runny)
-* 1 Lime (juice and zest)
-* 2 Gloves Garlic Crushed
-* Salmon Fillet (either one large fillet or 4 individual fillets)
+2 Tablespoons of Oyster Sauce
 
-## Method:
+¼ cup of Water
+
+⅓ cup of Honey (runny)
+
+1 Lime (juice and zest)
+
+2 Gloves Garlic Crushed
+
+Salmon Fillet (either one large fillet or 4 individual fillets)
+
+### Method:
 
 1. Mix together all of the ingredients except the Salmon in a small bowl. 
 2. Preheat the grill to 200 (or high heat).
