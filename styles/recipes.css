@@ -154,12 +154,14 @@ body.recipeslisting header{
   border-style: solid;
   border-color: black;
   border-width: 4px;
+}
+
 p.blurb {
 font-size: 19px;
 text-align: center;
 }
 
-.everything {
+.main {
 width:60%;
 max-width: 700px;
 /* border: 1px solid black; */
