@@ -63,7 +63,6 @@ hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid #fff;
-    border-radius: 25px;
   margin: 1em 0;
 }
 
@@ -94,7 +93,6 @@ ul.allrecipes {
 
 .menu {
   display: block;
-    border-radius: 25px;
   width: 60%;
   font-size: 40%;
   padding: 10em;
@@ -114,7 +112,6 @@ font-size: 17px;
   padding-bottom: 1em;
   padding-left: 5em;
   padding-right: 5em;
- border-color: rgb(224, 152, 43);
   border-width: 15px;
    border-radius: 25px;
 }
@@ -132,7 +129,6 @@ header{
   border-style: solid;
   border-color: rgb(224, 152, 43);
   border-width: 5px;
-   border-radius: 25px;
 }
 
 h1{
@@ -156,7 +152,6 @@ body.recipeslisting h1{
   color: white;
   font-size: 20px;
   text-align: center;
-    border-radius: 25px;
 }
   
 body.recipeslisting header{
@@ -166,13 +161,11 @@ body.recipeslisting header{
   border-style: solid;
   border-color: black;
   border-width: 4px;
-   border-radius: 25px;
 }
 
 p.blurb {
 font-size: 19px;
 text-align: center;
-    border-radius: 25px;
 }
 
 .main {
@@ -182,7 +175,6 @@ max-width: 700px;
 margin: 0 auto;
 background-color: white;
 padding:7em 15em;
-   border-radius: 25px;
 }
 
 p.link {
@@ -194,7 +186,7 @@ main{
   padding-left:2.5em;
   padding-right:2.5em;
   padding-top:1em;
-    border-radius: 25px;
+    border-radius: 5px;
   }
   
   
@@ -220,6 +212,6 @@ width: 75%;
 max-width: 400px;
 margin: 0 auto;
 display: block;
-   border-radius: 25px;
+   border-radius: 5px;
 
 }
