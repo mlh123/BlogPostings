@@ -32,7 +32,7 @@ A handful of baby spinach
 
 1 cup of cold water or ice cubes
 
-## Method:
+### Method:
 
 1. Chop up the banana and place into the **bee**-lender with the pitted, peeled and diced up mango.
 2. Add in a handful of spinach and the ground flax seeds, which are high in Omega and fibre, to keep the **hive** fuller for longer.
