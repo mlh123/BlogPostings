@@ -74,7 +74,7 @@ a {
 /* for a menu for all recipes */
 ul.allrecipes {
   list-style: none;
-    background-color: rgb(224, 152, 43); background-transparency: 25%;
+    background-color: rgb(248,187,93); background-transparency: 25%;
   border-color: rgb(224, 152, 43);
   box-sizing: border-box;
    border-radius: 5px;
@@ -82,7 +82,7 @@ ul.allrecipes {
     border-width: 10px;
   border-size: 100%;
   padding: 10px;
-  font-size: 12px;
+  font-size: 16px;
   line height: 1.5;
     text-align: center;
  content-align: center;
@@ -241,6 +241,4 @@ margin: 0 auto;
   margin-top: 2em;
 display: block;
    border-radius: 5px;
- 
-
 }
