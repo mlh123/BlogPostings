@@ -142,6 +142,7 @@ header{
 
 h1{
 margin: 0 auto;
+  margin-bottom: 3em;
 text-align: center;
 font-family: monospace, arial, helvetica, sans-serif;
  font-size: 40px;
