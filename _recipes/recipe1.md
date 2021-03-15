@@ -44,3 +44,7 @@ A handful of baby spinach
 Attached below is YouTube video detailing how to create this delicious honey concoction, ours has an added twist to it with the flax seeds.
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/2MJkyIFpOlA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+The orignal recipe can be found at *[CookEatShare.](https://cookeatshare.com/recipes/pink-smoothie-breakfast-697752)*
