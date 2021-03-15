@@ -110,7 +110,7 @@ ul.allrecipes {
 }
 
 body {
-background-color: white;
+background-color: green;
 font-family: monospace, arial, helvetica, sans-serif;
 margin:1em;
 font-size: 17px;
@@ -135,7 +135,6 @@ header{
   background-color: rgb:(235,198,141);
   font-color: white;
      border-radius: 5px;
-
 }
 
 h1{
@@ -216,7 +215,7 @@ main{
   padding-right:2.5em;
   padding-top:1em;
     border-radius: 5px;
-  
+  background-color: red;
   }
   
   
