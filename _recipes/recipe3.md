@@ -12,36 +12,57 @@ tags: null
 
 *There may even be a **waggle dance** involved.*
 
-* Serves: 8
-* Preparation Time: 45 minutes
-* Cooking Time: 1 hour
+Serves: 8
 
-## Ingredients:
+Preparation Time: 45 minutes
 
-* 1 + ½ cups of all purpose flour
-* ½ cup of italian seasoned bread crumbs
-* 1 + ½ teaspoons of garlic powder
-* 1 teaspoon of onion powder
-* 1 teaspoon of chili powder
-* 1 tablespoons of italian seasoning
-* 1 teaspoon of paprika powder
-* 2 teaspoon of salt
-* 1 teaspoon of pepper
-* 1 egg
-* ½ cup of milk
-* ½ teaspoon of garlic powder
-* 2 tablespoon of fresh lemon juice
-* 2 tablespoon of honey, plus some for drizzling over the top at the end
-* 1 broiler/fryer chicken (3-4 ib), cut up into pieces, let the meat sit at room temperature for 30 minutes
-* Oil for frying
+Cooking Time: 1 hour
 
-### Extras:
+## Ingredients
 
-* 8 bread buns
-* 2 handfuls of spinach or lettuce
-* 8 slices of cheese
-* 16 small gherkins
-* 1 ½ tomatoes, sliced thinly
+1 + ½ cups of all purpose flour
+
+½ cup of italian seasoned bread crumbs
+
+1 + ½ teaspoons of garlic powder
+
+1 teaspoon of onion powder
+
+1 teaspoon of chili powder
+
+1 tablespoons of italian seasoning
+
+1 teaspoon of paprika powder
+
+2 teaspoon of salt
+
+1 teaspoon of pepper
+
+1 egg
+
+½ cup of milk
+
+½ teaspoon of garlic powder
+
+2 tablespoon of fresh lemon juice
+
+2 tablespoon of honey, plus some for drizzling over the top at the end
+
+1 broiler/fryer chicken (3-4 ib), cut up into pieces, let the meat sit at room temperature for 30 minutes
+
+Oil for frying
+
+#### Extras
+
+8 bread buns
+
+2 handfuls of spinach or lettuce
+
+8 slices of cheese
+
+16 small gherkins
+
+1 ½ tomatoes, sliced thinly
 
 ## Method:
 
