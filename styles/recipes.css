@@ -75,13 +75,13 @@ a {
 ul.allrecipes {
   list-style: none;
     background-color: white;
-  width: 60%;
+  width: 70%;
   line height: 1.5;
-    text-align: centre;
+    text-align: center;
   border-style: solid;
   border-color: green;
   border-width: 3px;
- content-align: centre;
+ content-align: center;
   page-align: center; 
 }
 
