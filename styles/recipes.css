@@ -170,9 +170,13 @@ padding:12px 30px;
 
 p.link {
 
-
 }
 
+main{
+  border: 1px solid red;
+  }
+  
+  
 ul {
 color: black;
 font-size: 14px;
