@@ -11,26 +11,33 @@ tags:
 ---
 .
 
-
-
 ![](../uploads/caroline-hernandez-xlka0cjabus-unsplash.jpg "Photo by Caroline Hernandez on Unsplash")
 
-* Serves: 4
-* Preparation Time: 25 minutes
-* Cooking Time: 40 minutes
+Serves: 4
 
-## Ingredients:
+Preparation Time: 25 minutes
 
-* ¼ cup of unsalted butter
-* 1 & ½ cups of milk
-* 2 large eggs
-* 6 slices of white country bread
-* ½ cup + 1 tablespoon of honey
-* 5 tablespoons of hot water
-* ¼ teaspoon of ground cinnamon
-* ¼ teaspoon of vanilla
+Cooking Time: 40 minutes
 
-## Method:
+## Ingredients
+
+¼ cup of unsalted butter
+
+1 & ½ cups of milk
+
+2 large eggs
+
+6 slices of white country bread
+
+½ cup + 1 tablespoon of honey
+
+5 tablespoons of hot water
+
+¼ teaspoon of ground cinnamon
+
+¼ teaspoon of vanilla
+
+#### Method:
 
 1. Preheat oven to 350F.
 2. Butter 9-inch glass pie dish.
