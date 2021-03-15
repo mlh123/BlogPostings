@@ -82,7 +82,7 @@ ul.allrecipes {
   border-style: solid;
   border-color: green;
   border-width: 5px;
- margin: 0 auto 0 auto;
+ align-content: center;
 }
 
 .menu {
