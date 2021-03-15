@@ -74,7 +74,7 @@ a {
 /* for a menu for all recipes */
 ul.allrecipes {
   list-style: none;
-  align: centre;
+  text-align: centre;
 }
 
 .menu {
