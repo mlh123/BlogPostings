@@ -48,3 +48,7 @@ Cooking Time: 40 minutes
 7. In a bowl, combine the honey and hot water and stir until the mixture is evenly blended. 
 8. Stir in the cinnamon and vanilla and drizzle the sauce over and around the bread.
 9. Bake for 30 minutes or until golden brown.
+
+
+
+Here is a link to the orignal recipe at *[Recipes.Fandom.](https://recipes.fandom.com/wiki/Honey_Pudding)*
