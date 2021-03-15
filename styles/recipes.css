@@ -100,10 +100,10 @@ background-color: white;
 font-family: monospace, arial, helvetica, sans-serif;
 margin:1em;
 font-size: 17px;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  padding-left: 5em;
-  padding-right: 5em;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
  border-color: rgb(224, 152, 43);
   border-width: 15px;
 }
