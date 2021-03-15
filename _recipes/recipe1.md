@@ -12,18 +12,20 @@ tags: null
 
 *Perfect for on the go, even the **busiest of bees** got to eat. Better yet, it counts for one of your five-a-day!*
 
-* Serves: 1
-* Preparation time: 10 minutes
-* Cooking time: 2 minutes
+Serves: 1
+
+Preparation time: 10 minutes
+
+Cooking time: 2 minutes
 
 ## Ingredients:
 
-* 1 or 1/2 Mangos (pitted, peeled and diced)  
-* 1 Banana 
-* A handful of baby spinach
-* 2 tablespoons of ground flax seeds
-* 2 tablespoons of honey
-* 1 cup of cold water or ice cubes
+1. 1 or 1/2 Mangos (pitted, peeled and diced)  
+2. 1 Banana 
+3. A handful of baby spinach
+4. 2 tablespoons of ground flax seeds
+5. 2 tablespoons of honey
+6. 1 cup of cold water or ice cubes
 
 ## Method:
 
