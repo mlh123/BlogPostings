@@ -76,3 +76,7 @@ Oil for frying
 8. Heat the oil to 375F. Fry the chicken, a few pieces at a time (do not crowd), 3-5 minutes on each side or until golden brown.
 9. Transfer the chicken using tongs onto the baking tray. Bake in the oven until the chicken is done.
 10. Then place the cooked honey chicken into the bread buns, add the lettuce or spinach, gherkins, cheese and tomatoes on top, and serve with either sweet potato chips or a salad.
+
+
+
+Here is a link to the original recipe at *[CookEatShare.](https://cookeatshare.com/recipes/honey-fried-chicken-826728?servings=8&units=us)*
