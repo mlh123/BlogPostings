@@ -10,24 +10,31 @@ tags: null
 
 ![A picture of brunch with Omelette's and coffee](../uploads/phil-hei-6xvn2bn6p8o-unsplash.jpg "Photo by Phil Her on Unsplash")
 
-* Serves: 4
-* Preparation Time: 10 minutes 
-* Cooking Time: 5 minutes
+Serves: 4
 
+Preparation Time: 10 minutes 
 
+Cooking Time: 5 minutes
 
-## Ingredients:
+## Ingredients
 
-* 6-7 eggs (beaten with a splash of milk)
-* 3-4 apples (spelled and sliced)
-* 1 cup of shredded cheese
-* 3-4 tablespoons of honey (+ more for drizzling)
-* 5-6 fresh basil leaves (sliced thin)
-* 1/4 teaspoon of salt
-* 1/4 teaspoon of black pepper
-* Olive oil
+6-7 eggs (beaten with a splash of milk)
 
-## Method:
+3-4 apples (spelled and sliced)
+
+1 cup of shredded cheese
+
+3-4 tablespoons of honey (+ more for drizzling)
+
+5-6 fresh basil leaves (sliced thin)
+
+1/4 teaspoon of salt
+
+1/4 teaspoon of black pepper
+
+Olive oil
+
+### Method:
 
 1. Crack the eggs in a large bowl with a splash of milk, salt and pepper, and get the **worker bees** to mix together.
 2. In a separate bowl, place the sliced apples, shredded cheese, basil and the delicious honey and toss.
