@@ -86,7 +86,8 @@ ul.allrecipes {
     text-align: center;
  content-align: center;
   page-align: center; 
-  margin: 20 auto;
+  margin-left: 20em;
+  margin-right: 20em;
 }
 
 
