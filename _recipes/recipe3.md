@@ -77,4 +77,10 @@ Oil for frying
 9. Transfer the chicken using tongs onto the baking tray. Bake in the oven until the chicken is done.
 10. Then place the cooked honey chicken into the bread buns, add the lettuce or spinach, gherkins, cheese and tomatoes on top, and serve with either sweet potato chips or a salad.
 
+Attached below is a similar YouTube video detailing how to create this kind of tasty chicken dish, ours has the added extra honey twist.
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/s5koV0fQmHk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
 Here is a link to the original recipe at *[CookEatShare.](https://cookeatshare.com/recipes/honey-fried-chicken-826728?servings=8&units=us)*
