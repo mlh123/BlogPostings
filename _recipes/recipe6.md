@@ -13,6 +13,8 @@ tags:
 
 ![](../uploads/caroline-hernandez-xlka0cjabus-unsplash.jpg "Photo by Caroline Hernandez on Unsplash")
 
+*Cheap, brief and full of yummy goodness. What more **mite** a family need?*
+
 
 
 Serves: 4
@@ -50,5 +52,11 @@ Cooking Time: 40 minutes
 7. In a bowl, combine the honey and hot water and stir until the mixture is evenly blended. 
 8. Stir in the cinnamon and vanilla and drizzle the sauce over and around the bread.
 9. Bake for 30 minutes or until golden brown.
+
+
+
+Attached below is a YouTube video detailing how to create an enjoyabe and cheap desert, why not try replacing the white bread with brown bread, for that added fibre?
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/UVrvuMq4hvM?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Here is a link to the orignal recipe at *[Recipes.Fandom.](https://recipes.fandom.com/wiki/Honey_Pudding)*
