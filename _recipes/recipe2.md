@@ -10,6 +10,10 @@ tags: null
 
 ![A picture of brunch with Omelette's and coffee](../uploads/phil-hei-6xvn2bn6p8o-unsplash.jpg "Photo by Phil Her on Unsplash")
 
+Add in a side-salad, and you've got yourself a colourful dish fit for a **Queen.**
+
+
+
 Serves: 4
 
 Preparation Time: 10 minutes 
@@ -37,14 +41,12 @@ Olive oil
 ### Method:
 
 1. Crack the eggs in a large bowl with a splash of milk, salt and pepper, and get the **worker bees** to mix together.
-2. In a separate bowl, place the sliced apples, shredded cheese, basil and the delicious honey and toss.
+2. In a separate bowl, place the sliced apples, shredded cheese, basil and the delicious honey, and toss.
 3. Heat a round griddle pan with a tablespoon of olive oil. 
 4. Then, pour enough batter to almost fit the pan and swirl to make the circle even-ish. 
 5. When the eggs become firm, gently loosen with a spatula and crarefully flip (if all goes wrong, make a **beeline** to scrambled eggs).
 6. Leave for a few seconds and plate.
 7. Fill half of the circle with the apple-honey and cheese mixture and then fold over. Top with an extra apple and drizzle with honey.
-8. Serve with a delicous cup of coffee.
-
-
+8. Serve with a delicous cup of coffee or some squash.
 
 Here is a link to the orignal recipe at [CookEatShare](https://cookeatshare.com/recipes/basil-apple-cheese-and-honey-omelet-751048).
