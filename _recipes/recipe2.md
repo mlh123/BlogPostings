@@ -1,5 +1,5 @@
 ---
-title: Basil, Apple, Cheese and Honey Omelette
+title: The Queen's Perfect Brunch
 order: 2
 date: 2019-10-19
 layout: recipe
