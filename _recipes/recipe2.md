@@ -12,8 +12,6 @@ tags: null
 
 Add in a side-salad, and you've got yourself a colourful dish fit for a **Queen.**
 
-
-
 Serves: 4
 
 Preparation Time: 10 minutes 
@@ -48,5 +46,9 @@ Olive oil
 6. Leave for a few seconds and plate.
 7. Fill half of the circle with the apple-honey and cheese mixture and then fold over. Top with an extra apple and drizzle with honey.
 8. Serve with a delicous cup of coffee or some squash.
+
+Attached below is a YouTube video detailing how to create the perfect omelette, ours has the added twist to it with the basil, apple, cheese and honey. 
+
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/OQyRuOEKfVk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Here is a link to the orignal recipe at [CookEatShare](https://cookeatshare.com/recipes/basil-apple-cheese-and-honey-omelet-751048).
