@@ -6,11 +6,11 @@ date: 2020-11-19T18:50:31.663Z
 show: true
 layout: recipeshome
 ---
-Welcome my darling bees, 
+Welcome my darling bees to the epitome of honey based recipes.
 
 **Bee-hind** the 20 years in the beekeeping **bee-ness**, we at **Holden’s Honey Hive** are happy to **bee-hold** our recipe book to celebrate the times **bumbling** along at the very beginning, to becoming a household brand. We have filled it to the brim with our most **buzzed-**about recipes incorporating our signature Honey for you, our **colony**.
 
-From breakfast to supper, *Basil, Apple, Cheese and Honey Omelette* to *Honey, Mustard and Broccoli Slaw*, we have it all to enjoy some truly **un-bee-leviable** family moments. 
+From breakfast to supper, *Beeswax Smoothie* to *When Zesty and Sweet Met Salmon*, we have it all to enjoy some truly **un-bee-leviable** family moments. 
 
 Don’t go **pollen** in love just yet, there's more...
 
@@ -22,6 +22,6 @@ This is the must-**hive** recipe book for your family-friendly fun if truth **
 
 > We're the **bees-knees** of reci**\-bees**, and we know it.
 
-
-
 [See a list of all recipes](https://bloggg-website.netlify.app/allrecipes)
+
+Home Page
