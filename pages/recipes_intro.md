@@ -23,5 +23,3 @@ This is the must-**hive** recipe book for your family-friendly fun if truth **
 > We're the **bees-knees** of reci**\-bees**, and we know it.
 
 [See a list of all recipes](https://bloggg-website.netlify.app/allrecipes)
-
-Home Page
