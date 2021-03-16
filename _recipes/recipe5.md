@@ -1,5 +1,5 @@
 ---
-title: Lime and Honey Salmon
+title: When Zesty and Sweet Met Salmon
 order: 5
 date: 2019-10-19
 layout: recipe
