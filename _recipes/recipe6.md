@@ -9,7 +9,7 @@ tags:
   - Meat
   - Hot
 ---
-*Even if you're day hasn't gone to plan and there's been some issues, don't worry. With this honey bananza of a desert, your pudding time should go off without a hitch (fingers and wings crossed). Drizzled with out top secret sauce, the young **bee-lings** will be craving for more. It is easy and quick to make, even a baby could do it...but they shouldn't, obviously.* 
+*Even if you're day hasn't gone to plan and there's been some issues, don't worry. With this honey bananza of a desert, your pudding time should go off without a hitch (fingers and wings crossed). Drizzled with out top secret sauce, the young **bee-lings** will be **buzzing** for seconds.* 
 
 ![](../uploads/caroline-hernandez-xlka0cjabus-unsplash.jpg "Photo by Caroline Hernandez on Unsplash")
 
