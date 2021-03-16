@@ -245,3 +245,20 @@ margin: 0 auto;
 display: block;
    border-radius: 5px;
 }
+
+.video-box {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+
+.video-box iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  hieght: 100%;
+}
