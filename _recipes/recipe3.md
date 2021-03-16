@@ -1,5 +1,5 @@
 ---
-title: Honey Fried Chicken Burger
+title: Honey's Fried The Chicken Burger
 order: 3
 date: 2019-10-19
 layout: recipe
@@ -66,12 +66,12 @@ Oil for frying
 
 ### Method:
 
-1. Preheat the oven to 375F
-2. Line a baking tray with parchment paper
-3. In a small bowl, mix the first nine ingredients
+1. Preheat the oven to 375F.
+2. **Bee-line** a baking tray with parchment paper.
+3. In a small bowl, mix the first nine ingredients. 
 4. In a separate small, shallow bowl, whisk together the egg, milk, garlic powder, lemon juice and honey until well blended.
 5. Dip the chicken in the flour mixture to coat all sides and then shake off excess.
-6. Next, dip the chicken in the egg mixture, then again in the flour mixture. Set the chicken aside on the plate to rest for 10 mins
+6. Next, dip the chicken in the egg mixture, then again in the flour mixture. Set the chicken aside on the plate to rest for 10 mins.
 7. Pour the oil into the cast iron skillet over medium high heat.
 8. Heat the oil to 375F. Fry the chicken, a few pieces at a time (do not crowd), 3-5 minutes on each side or until golden brown.
 9. Transfer the chicken using tongs onto the baking tray. Bake in the oven until the chicken is done.
@@ -80,7 +80,5 @@ Oil for frying
 Attached below is a similar YouTube video detailing how to create this kind of tasty chicken dish, ours has the added extra honey twist.
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/s5koV0fQmHk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
 
 Here is a link to the original recipe at *[CookEatShare.](https://cookeatshare.com/recipes/honey-fried-chicken-826728?servings=8&units=us)*
