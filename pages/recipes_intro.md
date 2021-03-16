@@ -6,7 +6,7 @@ date: 2020-11-19T18:50:31.663Z
 show: true
 layout: recipeshome
 ---
-Welcome my darling bees to the epitome of honey based recipes.
+Welcome my darling bees to the epitome of honey-based recipes.
 
 **Bee-hind** the 20 years in the beekeeping **bee-ness**, we at **Holden’s Honey Hive** are happy to **bee-hold** our recipe book to celebrate the times **bumbling** along at the very beginning, to becoming a household brand. We have filled it to the brim with our most **buzzed-**about recipes incorporating our signature Honey for you, our **colony**.
 
