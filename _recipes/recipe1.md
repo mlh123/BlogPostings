@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-*Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It will be too good to resist.* 
+*Here at **Holden’s Honey Hive**, we pride ourselves on ensuring that all the family gets a great start to the day with our award-winning honey. Why not try bringing together the **brood** by spicing up the bland family breakfast with this quick and easy smoothie, filled to the brim with vitamins, proteins and fibre. It'll be too good to resist.* 
 
 ![Photo by Douglas Bagg on Unsplash](../uploads/douglas-bagg-glihfnzohac-unsplash.jpg)
 
@@ -45,4 +45,4 @@ Attached below is YouTube video detailing how to create this delicious honey con
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/2MJkyIFpOlA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Here is a link to the orignal recipe at *[CookEatShare.](https://cookeatshare.com/recipes/pink-smoothie-breakfast-697752)*
+Here is a link to the original recipe at *[CookEatShare.](https://cookeatshare.com/recipes/pink-smoothie-breakfast-697752)*
