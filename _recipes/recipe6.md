@@ -56,4 +56,4 @@ Attached below is a YouTube video detailing how to create an enjoyabe and cheap 
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/UVrvuMq4hvM?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Here is a link to the orignal recipe at *[Recipes.Fandom.](https://recipes.fandom.com/wiki/Honey_Pudding)*
+Here is a link to the original recipe at *[Recipes.Fandom.](https://recipes.fandom.com/wiki/Honey_Pudding)*
