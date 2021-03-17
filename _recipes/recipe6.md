@@ -41,14 +41,14 @@ Cooking Time: 40 minutes
 
 ### Method:
 
-1. Preheat oven to 350F.
+1. Preheat oven to 180**°**C.
 2. Butter 9-inch glass pie dish.
 3. Lightly beat eggs.
 4. Here's the important job for the **worker bees**: tare the slices of bread into 1 inch squares with the crust.
-5. Whisk together the milk and eggs, then add the bread pieces and turn to coat them evenly. 
+5. Whisk together the milk and eggs, then add the bread pieces and create **capping's** surrounding them evenly. 
 6. Leave the bread to soak for 15 to 20 minutes, turning over once or twice.
-7. In a large, nonstick skillet, heat the remaining butter over medium heat. Then fry the soaked bread in butter until **honey-golden**, about 2 to 3 minutes on each side and then transfer the bread to a baking dish.
-8. In a bowl, combine **Holden Honey Hives'** honey and hot water and stir until the mixture is evenly blended. 
+7. In a large, nonstick skillet, heat the remaining butter over medium heat. Then fry the soaked bread in butter until **honey-golden**, about 2 to 3 minutes on each side and then transfer the bread to a baking dish to cover the **frames** and **bottom board**.
+8. In a bowl, combine ***Holden Honey Hives'*** honey and hot water and stir until the mixture is evenly **bee-**lended. 
 9. Stir in the cinnamon and vanilla and drizzle the sauce over and around the bread.
 10. Bake for 30 minutes or until **honey-golden** brown.
 
