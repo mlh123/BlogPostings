@@ -42,13 +42,13 @@ Olive oil
 2. In a separate bowl, place the sliced apples, shredded cheese, basil and the delicious honey, and toss.
 3. Heat a round griddle pan with a tablespoon of olive oil. 
 4. Then, pour enough batter to almost fit the pan and swirl to make the circle even-ish. 
-5. When the eggs become firm, gently loosen with a spatula and crarefully flip (if all goes wrong, make a **beeline** to scrambled eggs).
+5. When the eggs become firm, gently loosen with a spatula and crarefully flip (if you **bumble** and it goes wrong, make a **beeline** to scrambled eggs).
 6. Leave for a few seconds and plate.
-7. Fill half of the circle with the apple-honey and cheese mixture and then fold over. Top with an extra apple and drizzle with honey.
-8. Serve with a delicous cup of coffee or some squash.
+7. If, **un-bee-leviably** so, you've managed to make a perfect omelette, then cover half of the circle with the apple-honey and cheese mixture and then fold over. Top with an extra apple and drizzle with honey.
+8. **Bee-hold** your **bee-licious** creation with a delicous cup of coffee or some squash.
 
 Attached below is a YouTube video detailing how to create the perfect omelette, ours has the added twist to it with the basil, apple, cheese and honey. 
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/OQyRuOEKfVk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Here is a link to the orignal recipe at [CookEatShare](https://cookeatshare.com/recipes/basil-apple-cheese-and-honey-omelet-751048).
+Here is a link to the original recipe at [CookEatShare](https://cookeatshare.com/recipes/basil-apple-cheese-and-honey-omelet-751048).
