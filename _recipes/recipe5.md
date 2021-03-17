@@ -46,4 +46,4 @@ Attached below is a YouTube video detailing how to create a sweet and zesty salm
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/leUcE2QRRUA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Here is a link to the orignal recipe at *[ABasicCook.](http://www.abasiccook.com/?space-recipes=lime-and-honey-salmon)*
+Here is a link to the original recipe at *[ABasicCook.](http://www.abasiccook.com/?space-recipes=lime-and-honey-salmon)*
