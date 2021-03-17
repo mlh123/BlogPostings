@@ -62,4 +62,4 @@ Cooking Time: 20 minutes
 
 ![Photo by Priscilla Du Preez on Unsplash](../uploads/priscilla-du-preez-zu_aszqwyqk-unsplash.jpg)
 
-Here is a link to the orignal recipe at *[CookEatShare.](https://cookeatshare.com/recipes/medenjaci-croatian-honey-spice-cookies-653286)*
+Here is a link to the original recipe at *[CookEatShare.](https://cookeatshare.com/recipes/medenjaci-croatian-honey-spice-cookies-653286)*
