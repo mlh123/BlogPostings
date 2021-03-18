@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-*The day's been long. The day's been tiring. Trust us, our **colony** knows all about that. That's why this nutritious, protein filled dinner is perfect for the whole family. Served with either noodles or rice with vegetables, it rivals being resturant-worthy.* 
+*The day's been long. The day's been tiring. Trust us, our **colony** knows all about that. That's why this nutritious, protein filled dinner is perfect for the whole family. That's why we've gone above and **bee-**yond to bring you this recipe. Served with either noodles or rice with vegetables, it rivals resturant-quality.* 
 
 ![](../uploads/caroline-attwood-bpptlxwtovg-unsplash.jpg "Photo by Caroline Attwood on Unsplash")
 
