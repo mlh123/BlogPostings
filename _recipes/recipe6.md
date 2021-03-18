@@ -48,7 +48,7 @@ Cooking Time: 40 minutes
 5. Whisk together the milk and eggs, then add the bread pieces and create **capping's** surrounding them evenly. 
 6. Leave the bread to soak for 15 to 20 minutes, turning over once or twice.
 7. In a large, nonstick skillet, heat the remaining butter over medium heat. Then fry the soaked bread in butter until **honey-golden**, about 2 to 3 minutes on each side and then transfer the bread to a baking dish to cover the **frames** and **bottom board**.
-8. In a bowl, combine ***Holden Honey Hives'*** honey and hot water and stir until the mixture is evenly **bee-**lended. 
+8. In a bowl, combine ***Holden Honey Hives*** honey and hot water and stir until the mixture is evenly **bee-**lended. 
 9. Stir in the cinnamon and vanilla and drizzle the sauce over and around the bread.
 10. Bake for 30 minutes or until **honey-golden** brown.
 
