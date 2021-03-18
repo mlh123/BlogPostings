@@ -49,12 +49,12 @@ Cooking Time: 20 minutes
 
 ### Method:
 
-1. Heat the butter, sugar and **Holden Honey Hives'** honey, stirring constantly, over a low heat until the sugar and butter have melted completely. 
+1. Heat the butter, sugar and **Holden Honey Hives** honey, stirring constantly, over a low heat until the sugar and butter have melted completely. 
 2. Set aside to cool for 10 minutes and lightly whisk the eggs. 
 3. Mix and combine baking soda, spices, all-purpose, whole wheat and soft flour, we do not recommend bringing in the **foundlings** as taste-testers just yet, but they can sure help out with the mixing.
 4. Add the lightly beaten eggs, flour and spices to the melted honey, sugar and butter mixture. Mix and combine to obtain a smooth and soft dough.
 5. Here comes the time-consuming part: cover the dough with foil and leave in a cool place for 1 - 3 days (trust us, they're worth the weight)
-6. Then divide and roll the dough into long rolls 1.5 cm in diameter, cut them into smaller rolls. Shape each role into a walnut sized ball.
+6. Then divide and roll the dough into long rolls 1.5 cm across and then cut them into smaller rolls. Shape each role into a walnut-sized ball.
 7. Place the dough balls a few centimeters apart from each other on a baking sheet lined with parchment paper. 
 8. Insert, only halfway, a quarter of the walnut hernel at the top of each cookie. If someone in your **hive** is allergic to nuts, why not subsitute with marshmellows, we're sure that they'll understand.
 9. Bake the cookies in the preheated oven at 190C for 10-12 mins. 
