@@ -1,5 +1,5 @@
 ---
-title: The Queen's Perfect Brunch
+title: The Queens Perfect Brunch
 order: 2
 date: 2019-10-19
 layout: recipe
@@ -39,7 +39,7 @@ Olive oil
 ### Method:
 
 1. Crack the eggs in a large bowl with a splash of milk, salt and pepper, and get the **worker bees** to mix together.
-2. In a separate bowl, place the sliced apples, shredded cheese, basil and the delicious honey, and toss.
+2. In a separate bowl, place the sliced apples, shredded cheese, basil and the delicious ***Holden Honey Hives*** honey, and toss.
 3. Heat a round griddle pan with a tablespoon of olive oil. 
 4. Then, pour enough batter to almost fit the pan and swirl to make the circle even-ish. 
 5. When the eggs become firm, gently loosen with a spatula and crarefully flip (if you **bumble** and it goes wrong, make a **beeline** to scrambled eggs).
