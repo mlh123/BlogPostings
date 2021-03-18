@@ -69,7 +69,7 @@ Oil for frying
 1. Preheat the oven to 375F.
 2. **Bee-line** a baking tray with parchment paper.
 3. In a small bowl, mix the first nine ingredients into the **royal jelly**. 
-4. In a separate small, shallow bowl, whisk together the egg, milk, garlic powder, lemon juice and honey until well blended.
+4. In a separate small, shallow bowl, whisk together the egg, milk, garlic powder, lemon juice and ***Holden Honey Hives*** honey until well **bee-**lended.
 5. Dip the chicken in the flour mixture to coat all sides and then **buzz** off the excess.
 6. Next, dip the chicken in the egg mixture, then again in the flour mixture. Set the chicken aside on the plate to rest for 10 mins.
 7. Pour the oil into the cast iron skillet over medium-high heat.
