@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Cover: what's all the buzz about?"
 date: 2021-02-16T13:10:39.710Z
-header_feature_image: ../uploads/bill-nino-c5dcs8bmn_i-unsplash.jpg
+header_feature_image: ../uploads/art-rachen-8sgkhwxzlkq-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
