@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hive got an idea, have you?
+title: "Bees: Why are they so important?"
 date: 2021-02-16T15:03:45.456Z
 header_feature_image: ../uploads/bill-nino-c5dcs8bmn_i-unsplash.jpg
 title_color: "#ffffff"
@@ -14,30 +14,28 @@ We welcome all those who love and appreciate bees like we do.
 
 To those who don't, **buzz** off.
 
-Today's conversation of choice is generating an idea for your reci-**bee** book.
+We need bees. Not just us at ***Holden Honey Hives*** as that essential for our family run and owned honey business, but because the world would be a much duller place without them.
 
-Inspiration can turn up in the unlikeliest of places, from a simple walk through a meadow to being chased down a rickety old bridge by a lion. 
+With the help of ***Friends of the Earth**,* we are going to show you just some of the reasons why bees are so important.
 
-You may think: this meadow has a pungent smell, maybe I should make a cookbook book filled with stinky recipes to try out.
+Did you know that, according to *Pollinators, Pollination and Food Production The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)*:
 
-Or you may think: that lion looks hungry and I don't want to be its next meal, maybe I should make a cookbook on ways to turn from a carnivore to a herbivore in a few easy steps. And quickly!
+> "*More than 90% of the leading global crop types are visited by bees.*" 
 
-Now all the serious stuff is out of the way, let us tell you how we came up with our ***Holden Honey Hives Presents Our Family Guide to Cooking with Honey*** recipe book idea. Long title, we know, but it says what it is on the tin.
+That's not surprising once you find out that there are over 20,000 known species of bees globally, and our personally favourite is the renowned **Honeybee**. There are 25 **Bumblebee** species and over 220 types of **Solitary Bees**, and yes, these tend to nest on their own, as their name implies. 
 
-The idea for this came from a special date, our 20th anniversary of producing high-quality honey, with our signature flavours, for all the family to enjoy together. We realized that a way to promote the wellbeing of the bee population and our signature honey brand at the same time would be through a recipe book to celebrate this special date in our **hives** history.
+Bees bring joy into our lives without us even registering it. We appreciate their strong work ethic. Their ability to never let us down. Without them, there'd be no us. 
 
-> To pun or not to pun, that was the true question. 
+When you're looking outside and see the blooming array of colourful and vibrant flowers, just remember, without bees, that wouldn't be possible. Current times are depressing and dull as it is, and as we're entering spring time, we need a little joy and happiness to get us through these times. 
 
-Our idea was centred around promoting family-friendly-fun experiences that all ages, from young to old, would enjoy. We wanted to create a **hive** of activity for our loyal and new customers to delight in. Incorporating our signature flavours of honey into every recipe published in the cookbook provided an added incentive and drive for our readers to purchase our products so that they followed the reci-**bees** to the **T**. 
+Through lockdown, the world has grown a deeper appreciation for the great outdoors, but with the worryingly dropping numbers of bees, something needs to be done.  
 
-That was our personal process of creating out a recipe book, and it was only an example, so please don't feel forced into using our method as it may not be what **buzzes** your **bee**.
+Organisations and charities such as *[Friends of the Earth](https://friendsoftheearth.uk/nature/why-do-we-need-bees), [Bumblebee Conservation Trust](https://www.bumblebeeconservation.org),* and *[The British Bee Charity](https://www.britishbeecharity.com)* are just some of the many that are working tireslessly to make a positive change.
 
-You do you.
+Here at ***Holden Honey Hives*** it has become one of our main objectives to do something about this, to not only help our own commnity, but to help all that we can thrive. That's why we decided to release our recipe book:
 
-We're here to support you in your **bumbling** journey to success.
+> *Holden Honey Hives Presents Our Family Guide to Cooking with Honey*
 
-However, here at **Holden Honey Hives**, we do hope that you've found this useful in coming up with an idea for your recipe book.
+Week by week, we are going to show you the process we went through in creating this honey-based recipe book and hope that it may inspire you to thrive for success with an objective of helping others. 
 
-We look forward to seeing you next week for: ***Honey, where's my theme?***
-
-Until then, nighty night our **beehive**, don't let the wind keep you down.
+See you next week for: *Hive got an idea, have you?*
