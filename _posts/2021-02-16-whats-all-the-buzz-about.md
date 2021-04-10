@@ -10,6 +10,8 @@ tags:
 ---
 Welcome back to the **hive** ~ how have you **bee-n**?
 
+Fun fact of the week: bees have four wings! 
+
 From our previous posts, you should now all have a running theme and idea on what your product and/or service should revolve around.
 
 Let's use **Holden Honey Hives** as our case study today to provide you with working example to review.
@@ -62,10 +64,8 @@ After this, we added a semi-transparent-coloured-cover over the canvas to help u
 
 ![](../uploads/screenshot-2021-04-06-at-11.48.56.png)
 
-
-
 Well our little darling bees, we hope that looking into our creative process was as helpful to you as it was to us. 
 
-We look forward to catching up with you next week for: *Where do people get their recipes from?*
+We look forward to catching up with you next week for: *A Website, should I or not?*
 
 Until then our ever-buzzing hive, good day and good night.
