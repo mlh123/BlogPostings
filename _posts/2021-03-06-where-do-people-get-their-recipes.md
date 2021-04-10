@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where do people get their recipes?
-date: 2021-03-06T13:05:36.440Z
+date: 2021-03-01T13:05:36.440Z
 header_feature_image: ../uploads/annie-spratt-8_wzu5xkfkk-unsplash.jpg
 title_color: "#ffffff"
 comments: false
@@ -9,6 +9,8 @@ tags:
   - ""
 ---
 Welcome back to the **hive,** how has the outside world **bee-n** treating you?
+
+Fun fact of the week: bees can recognise human faces!
 
 Last week we looked at why the cover is oh so important. It's not only superb marketing tool, it also doubles as a sales tool. This week we're looking into where we sourced our recipes from, its a good-y this week. 
 
@@ -31,6 +33,6 @@ Here's our method, we hope it helps you **buzzy-bees** in your journey to succes
 * Next, comes the photos, the images that accompany the recipes to make that extra bit irresistible, like flies to honey. We decided upon a modern-aesthetic, and gathered that pictures of ***[Honey Pudding](https://bloggg-website.netlify.app/recipes/recipe6/), [Beeswax Smoothie](https://bloggg-website.netlify.app/recipes/recipe1/), [The Queen's Perfect Brunch](https://bloggg-website.netlify.app/recipes/recipe2/), [Honey's Fried The Burger](https://bloggg-website.netlify.app/recipes/recipe3/), [Croatian Honey Spice Cookies](https://bloggg-website.netlify.app/recipes/recipe4/)*** and, of course, the legendary ** *[When Zesty and Sweet Met Salmon](https://bloggg-website.netlify.app/recipes/recipe5/).*** 
 * Once we'd completed all of these vital tasks, there's only one thing left to do, and that's start the creation and production of the recipe book.
 
-We hope this has been another insightful week for our amazing hive and we're already **buzzing** to catch up with you next week with: *A Website, should I or not?*
+We hope this has been another insightful week for our amazing hive and we're already **buzzing** to catch up with you next week with: *Creating a Cover: what's all the buzz about?*
 
 Until then, focus on staying safe and happy during these hard time.
