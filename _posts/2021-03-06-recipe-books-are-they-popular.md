@@ -12,6 +12,8 @@ Back again? Knew you couldn't resist the T, honey.
 
 Today's conversation of choice is generating an idea for your reci-**bee** book.
 
+Fun fact of the week: Honey bees can fly up to 15 miles per hour, they're the athletes of honey.
+
 Inspiration can turn up in the unlikeliest of places, from a simple walk through a meadow to being chased down a rickety old bridge by a lion. 
 
 You may think: this meadow has a pungent smell, maybe I should make a cookbook book filled with stinky recipes to try out.
