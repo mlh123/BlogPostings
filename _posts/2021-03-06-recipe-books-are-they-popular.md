@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hive got an idea, have you?
-date: 2021-03-06T13:04:27.660Z
+date: 2021-02-17T13:04:27.660Z
 header_feature_image: ../uploads/everest-louis-unygx3w9rsk-unsplash.jpg
 title_color: "#ffffff"
 comments: false
@@ -9,6 +9,8 @@ tags:
   - ""
 ---
 Back again? Knew you couldn't resist the T, honey.
+
+Fun fact of the week: Honey bees can fly up to 15 miles per hour, they're the athletes of honey.
 
 Today's conversation of choice is generating an idea for your reci-**bee** book.
 
