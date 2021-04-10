@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Honey, where's my theme?
-date: 2021-02-16T13:04:31.903Z
+date: 2021-02-25T13:04:31.903Z
 header_feature_image: ../uploads/wolfgang-hasselmann-fpmsljo408e-unsplash.jpg
 title_color: "#ffffff"
 comments: false
@@ -11,6 +11,8 @@ tags:
 Welcome back my beehive ~ how have you **bee-n**?
 
 All good things, I hope. 
+
+Fun fact of the week: honey is 80% sugar and 20% water, and ours is 100% made from love.
 
 Here at Holden Honey Hive, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
 
