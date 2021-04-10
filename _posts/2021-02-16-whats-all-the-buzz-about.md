@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Cover: what's all the buzz about?"
-date: 2021-02-16T13:10:39.710Z
+date: 2021-03-05T13:10:39.710Z
 header_feature_image: ../uploads/art-rachen-8sgkhwxzlkq-unsplash.jpg
 title_color: "#ffffff"
 comments: false
@@ -9,6 +9,8 @@ tags:
   - ""
 ---
 Welcome back to the **hive** ~ how have you **bee-n**?
+
+Fun fact of the week: bees have four wings! 
 
 From our previous posts, you should now all have a running theme and idea on what your product and/or service should revolve around.
 
@@ -62,10 +64,8 @@ After this, we added a semi-transparent-coloured-cover over the canvas to help u
 
 ![](../uploads/screenshot-2021-04-06-at-11.48.56.png)
 
-
-
 Well our little darling bees, we hope that looking into our creative process was as helpful to you as it was to us. 
 
-We look forward to catching up with you next week for: *Where do people get their recipes from?*
+We look forward to catching up with you next week for: *A Website, should I or not?*
 
 Until then our ever-buzzing hive, good day and good night.
