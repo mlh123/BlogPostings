@@ -10,9 +10,9 @@ tags:
 ---
 Back again? Knew you couldn't resist the T, honey.
 
-Today's conversation of choice is generating an idea for your reci-**bee** book.
-
 Fun fact of the week: Honey bees can fly up to 15 miles per hour, they're the athletes of honey.
+
+Today's conversation of choice is generating an idea for your reci-**bee** book.
 
 Inspiration can turn up in the unlikeliest of places, from a simple walk through a meadow to being chased down a rickety old bridge by a lion. 
 
