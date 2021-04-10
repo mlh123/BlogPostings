@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Website, should I or not?
-date: 2021-03-06T13:06:14.941Z
+date: 2021-03-09T13:06:14.941Z
 header_feature_image: ../uploads/andy-holmes-wdz-dez94rq-unsplash.jpg
 title_color: "#ffffff"
 comments: false
@@ -9,6 +9,8 @@ tags:
   - ""
 ---
 Back again for our next instalment, it's great to have you join back with the colony.
+
+Fun fact of the week: bumblebees have surprisingly smelly feet! 
 
 A website. Why would a honey making company need a website? Well, to be trusted and recognised by potential customers, you need to have an online presence, whether that be through Instagram, Facebook, Twitter or by the old-fashioned way of a simple website. Its your choice, but we recommend all four to create the best user experience, all with links to each other. 
 
@@ -41,6 +43,6 @@ It's quick, easy and cheap to do so.
 
 You've got to believe in yourself like we at ***Holden Honey Hives*** do.
 
-See you **bees** next week for: *Recipe books: are they popular? Honey, we hope so.\*
+See you **bees** next week for: *Recipe books: are they popular? Honey, we hope so.*
 
 Until then, dream big and live well.
