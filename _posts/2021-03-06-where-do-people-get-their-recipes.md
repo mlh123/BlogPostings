@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where do people get their recipes?
+title: "Gathering reci-bees: where, how, why. "
 date: 2021-03-01T13:05:36.440Z
 header_feature_image: ../uploads/annie-spratt-8_wzu5xkfkk-unsplash.jpg
 title_color: "#ffffff"
@@ -12,7 +12,7 @@ Welcome back to the **hive,** how has the outside world **bee-n** treating you?
 
 Fun fact of the week: bees can recognise human faces!
 
-Last week we looked at why the cover is oh so important. It's not only superb marketing tool, it also doubles as a sales tool. This week we're looking into where we sourced our recipes from, its a good-y this week. 
+Last week we looked at why the cover is oh so important. It's not only superb marketing tool, it also doubles as a sales tool, appearances can **bee** deceiving. This week we're looking into where we sourced our recipes from, its a good-y this week. 
 
 As you well know by now, we have a very niche focus for ours, honey. 
 
@@ -22,16 +22,16 @@ Simple as.
 
 However, because its niche-ness, finding recipes that haven't been done to death has been a challenge, but a challenge we have been determined to overcome. 
 
-Like we've said before, we do not give up in the face of adversity, and this will be no exception. 
+Not to keep **droning** on but we do not give up in the face of adversity, and this will be no exception. 
 
 Here's our method, we hope it helps you **buzzy-bees** in your journey to success.
 
-* Firstly, we collated a number of unique and diverse recipes from a variety of sources, from *[CookEatShare](https://cookeatshare.com)* to *[A Basic Cook](http://www.abasiccook.com).* These provided to basis to work up from. 
-* Secondly, we shared these recipes on our social media platforms (located on our home page, in you wanna check those our after you've finished reading this weeks blog posting), to get our audience to try them out at home. Their response was invaluable and extremely positive. We asked them what food combinations with honey that they wanted to try and what ones that were classic family favourites.
-* After extensive in-house testing, we chose a selection that we felt would be most beneficial to our customers. 
+* Firstly, we collated a number of unique and diverse recipes from a variety of sources, from *[CookEatShare](https://cookeatshare.com)* to *[A Basic Cook](http://www.abasiccook.com).* These provided to **bottom board** to work up from. 
+* Secondly, we shared these recipes on our social media platforms (located on our home page, in you wanna check those our after you've finished reading this weeks blog posting), to get our **brood** to try them out at home. Their responses were invaluable and extremely positive. We asked them what food combinations with honey that they wanted to try and what ones that were classic family favourites.
+* After being as **busy as a bee** through extensive in-house testing, we chose a selection that we felt would **bee** most beneficial to our **colony**. 
 * To keep to our core values, we obviously had to make them pun-tastic and fun! For example, we changed the common *Lime and Honey Salmon* to *When Zesty and Sweet Met Salmon (*for obvious reasons, we hope you get it)*.*
-* Next, comes the photos, the images that accompany the recipes to make that extra bit irresistible, like flies to honey. We decided upon a modern-aesthetic, and gathered that pictures of ***[Honey Pudding](https://bloggg-website.netlify.app/recipes/recipe6/), [Beeswax Smoothie](https://bloggg-website.netlify.app/recipes/recipe1/), [The Queen's Perfect Brunch](https://bloggg-website.netlify.app/recipes/recipe2/), [Honey's Fried The Burger](https://bloggg-website.netlify.app/recipes/recipe3/), [Croatian Honey Spice Cookies](https://bloggg-website.netlify.app/recipes/recipe4/)*** and, of course, the legendary ** *[When Zesty and Sweet Met Salmon](https://bloggg-website.netlify.app/recipes/recipe5/).*** 
-* Once we'd completed all of these vital tasks, there's only one thing left to do, and that's start the creation and production of the recipe book.
+* Next, comes the photos, the images that accompany the recipes to make that extra bit irresistible, like **flies to honey**. We decided upon a modern-aesthetic, and gathered that pictures of ***[Honey Pudding](https://bloggg-website.netlify.app/recipes/recipe6/), [Beeswax Smoothie](https://bloggg-website.netlify.app/recipes/recipe1/), [The Queen's Perfect Brunch](https://bloggg-website.netlify.app/recipes/recipe2/), [Honey's Fried The Burger](https://bloggg-website.netlify.app/recipes/recipe3/), [Croatian Honey Spice Cookies](https://bloggg-website.netlify.app/recipes/recipe4/)*** and, of course, the legendary ** *[When Zesty and Sweet Met Salmon](https://bloggg-website.netlify.app/recipes/recipe5/).*** 
+* Once we'd completed all of these vital tasks, there's only one thing left to do, and that's start the **hefting** together the creation and production of the recipe book.
 
 We hope this has been another insightful week for our amazing hive and we're already **buzzing** to catch up with you next week with: *Creating a Cover: what's all the buzz about?*
 
