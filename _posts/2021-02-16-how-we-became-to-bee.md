@@ -51,6 +51,6 @@ Now, here at **Holden Honey Hive's**, we hope this was helpful in your search fo
 
 We look forward to seeing you in our next week's issue of: 
 
-*Gathering recipes, we've been busy bees!*
+***Gathering recipes, we've been busy bees!***
 
 For now, our glorious beehive, fly away and enjoy the rest of your day.
