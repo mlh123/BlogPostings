@@ -66,6 +66,6 @@ After this, we added a semi-transparent-coloured-cover over the canvas to help u
 
 Well our little darling bees, we hope that looking into our creative process was as helpful to you as it was to us. 
 
-We look forward to catching up with you next week for: *A Website, should I or not?*
+We look forward to catching up with you next week for: *A Website: don't get left behind!*
 
 Until then our ever-buzzing hive, good day and good night.
