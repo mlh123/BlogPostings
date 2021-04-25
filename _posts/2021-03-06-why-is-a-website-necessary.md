@@ -12,13 +12,19 @@ Back again for our next instalment, it's great to have you join back with the co
 
 Fun fact of the week: bumblebees have surprisingly smelly feet! 
 
-A website. Why would a honey making company need a website? Well, to be trusted and recognised by potential customers, you need to have an online presence, whether that be through Instagram, Facebook, Twitter or by the old-fashioned way of a simple website. Its your choice, but we recommend all four to create the best user experience, all with links to each other. 
+A website. Why would an amazing honey making company, like us, need a website? Well, to be trusted and recognised by potential buyers, that's why. 
+
+To have this, you need to have an online presence. It's that simple, stylish, yet effective.
+
+Whether it be through *Instagram, Facebook, Twitter* or by the old-fashioned way of a simple website, it's your choice. 
+
+We utilise and recommend all four to create the best user experience, all with links to each other. 
 
 With the help of **[Themeisle](https://themeisle.com/blog/do-i-need-a-website-for-my-business/)**, we are going to show you why a website is needed.
 
-1. **A website makes you look professional**
+1. **A website makes you look professional, who doesn't want to be taken seriously when it comes down to business?** 
 
-   By making it cohesive with your social media platforms, it helps create a strong brand image that customers are more likely to trust and respect. You could go the extra mile and create a branded email address to increase your level of professionalism.
+   By making it cohesive with your social media platforms, it creates a strong brand image that customers are more likely to trust and respect. You could go the extra mile and create a branded email address to increase your level of professionalism.
 2. **You can clearly showcase your products and services**
 
    Using high-quality images and/or videos of your goods/services that fit with the desired aesthetic that you're going for add to helping you attract the right sort of customer. Our 'right customers' are those who are interested in the health, wellbeing and preservation of our bee community and an appetite for honey. 
