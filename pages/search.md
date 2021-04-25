@@ -1,6 +1,6 @@
 ---
 title: Search
-subtitle: What information are you wanting for you pollen basket?
+subtitle: ""
 permalink: /search/
 layout: search
 feature-img: assets/img/pexels/search-map.jpeg
