@@ -10,11 +10,15 @@ tags: null
 description: null
 show: true
 ---
-Hello to our **beehive** showcasing quality content based around one thing and one thing alone. Can you guess what that is? (Hint: it is the websites name).
+Hello to our **beehive** that showcases quality content based around one thing and one thing alone. Can you guess what that is? (Hint: it is the websites name).
 
 Honey! That's right, honey doesn't have to **bee** for sweet treats, it can be for a whole number of things: chicken, cheese, eggs, and yes, even fish. 
 
-As a family owned business, nay, lifestyle, honey runs through our veins, we breathe pollen as air. Like any other profession, there have been hardships, but we're not ones to **abscond** our passion of beekeeping. We thrive in the face of opposition and adversity, growing to **bee-come** the household brand you know and love today.
+As a family owned business, nay, lifestyle, honey runs through our veins. We breathe pollen as air. 
+
+Like any other profession, there have been hardships, but we're not ones to **abscond** our passion of beekeeping. 
+
+We thrive in the face of opposition and adversity, growing to **bee-come** the household brand you know and love today.
 
 ![](../uploads/bianca-ackermann-1jjyxevi7vi-unsplash.jpg "Photo by Bianca Ackermann on Unsplash")
 
