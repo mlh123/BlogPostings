@@ -49,6 +49,6 @@ Olive oil
 
 Attached below is a YouTube video detailing how to create the perfect omelette, ours has the added twist to it with the basil, apple, cheese and honey. 
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/OQyRuOEKfVk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/OQyRuOEKfVk?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Here is a link to the original recipe at [CookEatShare](https://cookeatshare.com/recipes/basil-apple-cheese-and-honey-omelet-751048).
