@@ -1,6 +1,6 @@
 ---
 title: Search
-subtitle: ""
+subtitle: Enter search phrase.
 permalink: /search/
 layout: search
 feature-img: assets/img/pexels/search-map.jpeg
