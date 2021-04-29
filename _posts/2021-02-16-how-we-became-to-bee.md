@@ -14,7 +14,7 @@ All good things, I hope.
 
 Fun fact of the week: honey is 80% sugar and 20% water, and ours is 100% made from love.
 
-Here at **Holden Honey Hive**, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
+Here at ***Holden Honey Hive***, we have one theme that runs throughout all of our products. Can you guess what it is? Here's a hint, it is in our title.
 
 It's what gets the world **buzzing**. It's what makes people **bumble** out of bed in the morning.
 
@@ -47,7 +47,7 @@ Here are ways in which may help you decide upon a theme and apply it, according 
 
 A theme is important to any product, but it is especially relevant for a reci-**bee** book because you have to compete with the **wasps** on the internet. Why should a potential customer and reader purchase your recipe book when there are similar recipes available for free online? You are creating a user experience; you are creating value for money. A consistent theme will help you do this.
 
-Now, here at **Holden Honey Hives**, we hope this was helpful in your search for a theme.
+Now, here at ***Holden Honey Hives***, we hope this was helpful in your search for a theme.
 
 We look forward to seeing you in our next week's issue of: 
 
