@@ -10,7 +10,7 @@ tags:
 ---
 Back again? Knew you couldn't resist the T, honey.
 
-Fun fact of the week: Honey bees can fly up to 15 miles per hour, they're the athletes of honey.
+Fun fact of the week: Honeybees can fly up to 15 miles per hour, they're the athletes of honey!
 
 Today's conversation of choice is generating an idea for your reci-**bee** book.
 
@@ -18,7 +18,7 @@ Inspiration can turn up in the unlikeliest of places, from a simple walk through
 
 You may think: this meadow has a pungent smell, maybe I should make a cookbook book filled with stinky recipes to try out.
 
-Or you may think: that lion looks hungry and I don't want to be its next meal, maybe I should make a cookbook on ways to turn from a carnivore to a herbivore in a few easy steps. And quickly!
+Or you could think: that lion looks hungry and I don't want to be its next meal, maybe I should make a cookbook on ways to turn from a carnivore to a herbivore in a few easy steps...and quickly!
 
 Now all the serious stuff is out of the way, let us tell you how we came up with our ***Holden Honey Hives Presents Our Family Guide to Cooking with Honey*** recipe book idea. Long title, we know, but it says what it is on the tin.
 
