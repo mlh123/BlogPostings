@@ -49,8 +49,6 @@ A theme is important to any product, but it is especially relevant for a reci-**
 
 Now, here at ***Holden Honey Hives***, we hope this was helpful in your search for a theme.
 
-We look forward to seeing you in our next week's issue of: 
-
-***Gathering recipes, we've been busy bees!***
+We look forward to seeing you in our next week's issue of: *Gathering recipes, we've been busy bees!*
 
 For now, our glorious beehive, fly away and enjoy the rest of your day.
