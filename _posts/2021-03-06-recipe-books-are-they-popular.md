@@ -10,7 +10,7 @@ tags:
 ---
 Back again? Knew you couldn't resist the T, honey.
 
-Fun fact of the week: honey bees can fly up to 15 miles per hour, they're the athletes of honey!
+Fun fact of the week: Honeybees can fly up to 15 miles per hour, they're the athletes of honey!
 
 Today's conversation of choice is generating an idea for your reci-**bee** book.
 
