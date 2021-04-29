@@ -34,8 +34,8 @@ You do you.
 
 We're here to support you in your **bumbling** journey to success.
 
-However, here at **Holden Honey Hives**, we do hope that you've found this useful in coming up with an idea for your recipe book.
+However, here at ***Holden Honey Hives**,* we do hope that you've found this useful in coming up with an idea for your recipe book.
 
-We look forward to seeing you next week for: ***Honey, where's my theme?***
+We look forward to seeing you next week for: *Honey, where's my theme?*
 
 Until then, nighty night our **beehive**, don't let the wind keep you down.
