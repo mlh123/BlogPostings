@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating a Cover: what's all the buzz about?"
-date: 2021-03-05T13:10:39.710Z
+date: 2021-04-12T12:10:39.710Z
 header_feature_image: ../uploads/art-rachen-8sgkhwxzlkq-unsplash.jpg
 title_color: "#ffffff"
 comments: false
