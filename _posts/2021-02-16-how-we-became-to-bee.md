@@ -45,7 +45,7 @@ Here are ways in which may help you decide upon a theme and apply it, according 
 9. Take photos in natural lighting for them to look as aesthetically pleasing as possible in the eyes of the **bee**-holder.
 10. Test, re-test and proofread it to weed out any mistakes, because you'll have missed at least one, ain't nothing worse then messing up in the **spelling bee** of life.
 
-A theme is important to any product, but it is especially relevant for a reci-**bee** book because you have to compete with the **wasps** on the internet. Why should a potential customer and reader purchase your recipe book when there are similar recipes available for free online? You are creating a user experience; you are creating value for money. A consistent theme will help you do this.
+A theme is important to any product, but it is especially relevant for a reci-**bee** book because you have to compete with the **wasps** on the internet. Why should a potential customer and reader purchase your recipe book when there are similar recipes available for free online? You are creating a user experience; you are creating value for money. A consistent theme will help you accomplish this.
 
 Now, here at ***Holden Honey Hives***, we hope this was helpful in your search for a theme.
 
