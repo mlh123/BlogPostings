@@ -6,9 +6,9 @@ header_feature_image: ../uploads/everest-louis-unygx3w9rsk-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
-  - ""
+  - "#hive"
 ---
-Back again? Knew you couldn't resist the T, honey.
+Back again? Knew you couldn't resist the T, **honey**.
 
 Fun fact of the week: Honeybees can fly up to 15 miles per hour, they're the athletes of honey!
 
@@ -34,7 +34,7 @@ You do you.
 
 We're here to support you in your **bumbling** journey to success.
 
-However, here at ***Holden Honey Hives**,* we do hope that you've found this useful in coming up with an idea for your recipe book.
+However, here at **\*Holden Honey Hives**,* we do hope that you've found this useful in coming up with an idea for your recipe book.
 
 We look forward to seeing you next week for: *Honey, where's my theme?*
 
