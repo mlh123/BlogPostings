@@ -33,10 +33,10 @@ With the help of **[Themeisle](https://themeisle.com/blog/do-i-need-a-website-fo
    This is a great way to establish social proof that your company is legitimate and of high quality, wouldn't want to be seen as a **wasp**. 
 4. **It encourages bees to directly contact the apiarist (aka. the beekeeper, aka. you).**
 
-   Your contact information is readily accessible, on a website, to potential customers who wish to get in touch. In case you're worried about SPAM, most modern website builders provide you a template of a contact form to protect your business email, bet that's a **pollen load** off your shoulders.
+   Your contact information is readily accessible on the website to potential customers who wish to get in touch. In case you're worried about SPAM, most modern website builders provide you a template of a contact form to protect your business email, bet that's a **pollen load** off your mind.
 5. **It establishes your place in the hierarchy of the hive.**
 
-   Heard of early bird catches the worm? Well, that same incentive applies to this situation as well. By establishing yourself first, you have a greater potential to establish yourself as the leader in your field. If your competitors are already online, then you have the opportunity to diverse yours to make it stand out. 
+   Ever heard of early bird catches the worm? Well, that same incentive applies to this situation as well. By establishing yourself first, you have a greater potential to establish yourself as the leader in your field. If your competitors are already online, then you have the opportunity to diverse yours to make it stand out. 
 6. **Creating a website is getting easier and easier, and better yet, cheaper!**
 
    *Squarespace* and *Wix* are just some of the well-known modern website builders that make it easy for you to build an attractive, mobile-friendly site. Coding is scary and confusing, luckily these do that for you! 
