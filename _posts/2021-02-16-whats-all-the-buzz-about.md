@@ -18,7 +18,7 @@ Let's use our ***Holden Honey Hives*** as the case study today to provide you wi
 
 Now, a cover needs to be engaging, eye-catching, and most importantly, relevant.
 
-It may take hours, days, months, potentially even years. Or it might take minutes, seconds. You might get it right first attempt, you may not. These things take time and shouldn't be rushed, unless the **Queen Bee** orders it. When it happens, you'll know. You'll think "that's the one".
+It may take hours, days, months, potentially even years. Or it might take minutes, seconds, moments. You might get it right first attempt, you may not. These things take time and shouldn't be rushed, unless the **Queen Bee** orders it. When it happens, you'll know. You'll think "that's the one".
 
 Creating a cover involves miniscule changes using *Adobe* programmes such as *Photoshop* and *Indesign*, as shown in this working example.
 
@@ -30,7 +30,7 @@ Let's first look at the basic principles of a **reci-bee** cover, with a little 
 
 ### Balance
 
-When things are visually balanced, potential buyers begin to feel uncomforable upon first glances, which never a good thing, unless that's the angle you're going for (in this case, it's not). 
+When things are visually balanced, potential buyers begin to feel uncomforable upon first glances, which is never a good thing, unless that's the angle you're going for (in this case, it's not). 
 
 With the additions of bee's to the page, it not only adds context to what the recipe book is about, but also uplifts our family-friendly tone. 
 
@@ -40,13 +40,13 @@ Every added detail is focused on the left-hand side. When we add another bee to 
 
 ![](../uploads/screenshot-2021-04-05-at-19.47.37.png)
 
-Not one's to brag, but we did create and name the honey bees ourselves. There's Bennie, Bernard and Truffles (that one was randomly chosen out of catelogue and who are we to argue with fate).
+Not one's to brag, but we did create and name the honey bees ourselves. There's Bennie, Bernard and Truffles (that one was randomly chosen out of catelogue, and who are we to argue with fate).
 
 ### Rhythm
 
 Rhythm isn't just for the **waggle dance**. 
 
-It can be for design as well, where you create a pattern through repeating and changing elements. That is one of the reasons by the placement of the bees is so important, they help create a relaxing and comforting feel. 
+It can be for design as well, where you create a pattern through repeating and changing elements. That is one of the reasons why the placement of the bees is so important, they help create a relaxing and comforting feel. 
 
 Our logo is a key selling point and an essential ingredient to maintaining our successful brand, ergo it takes centre stage just like the **Queen bee** it is.
 
@@ -54,13 +54,13 @@ Our logo is a key selling point and an essential ingredient to maintaining our s
 
 ### Emphasis
 
-To make the important things stand out, like our amazing brand name ***Holden Honey Hives***, we encorporateed it to share the centre stage with our logo. To have a little fun whilst designing, we decided to make use of the cover image, and, obviously take the risk, surround the circle with our text. And guess what...it worked!
+To make the important things stand out, like our amazing brand name ***Holden Honey Hives***, we encorporateed it to share the centre stage with our logo. To have a little fun whilst designing, we decided to make use of the cover image, and, obviously taking a risk, surround the circle with our text. And guess what...it worked!
 
 > *We are the bees knees of recipes!*
 
 We though we'd use this as our tagline, because it's the truth and something we're very proud about. Don't let the haters bring you down, we haven't and look at us now!
 
-By using this, it illustrates that we belive in our recipe book and so, to show its prominence, we placed it in its own personal sphere (we tried a hexagon, but it just wouldn't work as somethings are just not meant to be). If it were a print recipe book, we decided that it would have been a scented sticker, can you guess the scent? 
+By using this, it illustrates that we **bee-live** in our recipe book and so, to show its prominence, we placed it in its own personal sphere (we tried a hexagon, but it just wouldn't work as somethings are just not meant to be). If it were a print recipe book, we decided that it would have been a scented sticker, can you guess the scent? 
 
 ![](../uploads/screenshot-2021-04-05-at-19.37.13.png)
 
